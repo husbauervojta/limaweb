@@ -33,6 +33,16 @@ Cada categoría es un array de objetos en `data/`:
 
 Los campos `description`, `hours`, `bestTime` y `frequency` son bilingües: `{ "es": "...", "en": "..." }`. Los `tags` son claves (slugs en inglés, p. ej. `"fast-wifi"`) que se traducen mediante el diccionario en `js/i18n.js` (`TAGS`, `CUISINES`, `SPOT_TYPES`, `SPORT_TYPES`, `EVENT_TYPES`) — si agregas una etiqueta nueva, añádela también ahí.
 
+### Traer datos reales (OpenStreetMap)
+
+```bash
+npm run fetch:places
+```
+
+Consulta la API de Overpass (OpenStreetMap) y escribe `data/candidates/cafes-osm.json` y `data/candidates/food-osm.json` con cafés/restaurantes reales de Miraflores, Barranco, San Isidro y Surquillo — nombre, dirección, coordenadas, horario si está etiquetado. **No modifica el sitio en vivo.** Son candidatos crudos (`verified: false`, `description` vacía) para revisar y elegir a mano cuáles pasar a `data/cafes.json` / `data/food.json`, escribiendo tú (o Claude, con estos datos como base) la descripción curada de cada uno.
+
+Calidad de los datos: variable — no todos los lugares en OpenStreetMap tienen horario o dirección completa, y el barrio se adivina por coordenadas cuando OSM no lo etiqueta, así que revísalo antes de publicar.
+
 ### Botón "¿Conoces un evento? Sugiérelo"
 
 En `events.html` hay un enlace marcado con `data-submit-event` que apunta a `href="#"` — reemplázalo por el link de tu Google Form (u otro formulario) cuando lo tengas. Las respuestas hay que pasarlas a mano a `data/events.json` siguiendo el mismo formato que las entradas existentes.

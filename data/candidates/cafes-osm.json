@@ -1,0 +1,6008 @@
+[
+  {
+    "id": "cafes-osm-node-4990723081-1874-coffee-bar",
+    "name": "1874 Coffee & Bar",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1496536,
+      "lon": -77.0224117
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4990723081",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4419801689-agora-cafe-arte",
+    "name": "Ágora Café Arte",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Diagonal 378",
+    "coordinates": {
+      "lat": -12.1213896,
+      "lon": -77.0307375
+    },
+    "openingHoursRaw": "Mo-Fr 07:30-21:30",
+    "website": null,
+    "phone": null,
+    "cuisine": "breakfast;cake;coffee_shop;tea;sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4419801689",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436770840-agusto-s-coffee",
+    "name": "Agusto's Coffee",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Alvarez de Arenales",
+    "coordinates": {
+      "lat": -12.0890052,
+      "lon": -77.0350817
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436770840",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10705431517-aldaba-cafe",
+    "name": "Aldaba Café",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Dos de Mayo 1470",
+    "coordinates": {
+      "lat": -12.0922189,
+      "lon": -77.0458977
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10705431517",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435323739-ale-cendras",
+    "name": "Ale Cendras",
+    "neighborhood": "Miraflores",
+    "address": "Avenida 28 de Julio 200",
+    "coordinates": {
+      "lat": -12.1259485,
+      "lon": -77.0323073
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "cake",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/way/435323739",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11973759073-amauta-coffee",
+    "name": "Amauta Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.122579,
+      "lon": -77.0277006
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11973759073",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-368855058-amores-comestibles",
+    "name": "Amores Comestibles",
+    "neighborhood": "Lima",
+    "address": "8 de Octubre 305",
+    "coordinates": {
+      "lat": -12.1131037,
+      "lon": -77.0453845
+    },
+    "openingHoursRaw": "Mo-Su 07:00-21:00",
+    "website": null,
+    "phone": "+511 4222434",
+    "cuisine": "peruvian",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/368855058",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4702955790-arabica-espresso-bar",
+    "name": "Arabica Espresso Bar",
+    "neighborhood": "Miraflores",
+    "address": "Calle General Federico Recavarren 269",
+    "coordinates": {
+      "lat": -12.120989,
+      "lon": -77.0335702
+    },
+    "openingHoursRaw": "Mo-Sa 08:00-22:00; Su 14:00-21:00",
+    "website": "https://arabicaespressobar.blogspot.com/",
+    "phone": "+511 7152152",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4702955790",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336091246-arepa-cafe",
+    "name": "Arepa Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Berlín 407",
+    "coordinates": {
+      "lat": -12.1203214,
+      "lon": -77.0338489
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336091246",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-3128711870-aromas-del-cafe",
+    "name": "Aromas del Cafe",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0820109,
+      "lon": -77.0304929
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/3128711870",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4343683262-aromia",
+    "name": "Aromia",
+    "neighborhood": "Miraflores",
+    "address": "Calle José Gálvez 401",
+    "coordinates": {
+      "lat": -12.1220807,
+      "lon": -77.032917
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4343683262",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11024067005-artidoro-rodriguez",
+    "name": "Artidoro Rodríguez",
+    "neighborhood": "Miraflores",
+    "address": "Calle Tarata 285",
+    "coordinates": {
+      "lat": -12.1234639,
+      "lon": -77.0280785
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11024067005",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11742779836-ayni-puzzles-coffee-souvenirs",
+    "name": "Ayni Puzzles Coffee & Souvenirs",
+    "neighborhood": "Miraflores",
+    "address": "Calle Tarata 265",
+    "coordinates": {
+      "lat": -12.1234534,
+      "lon": -77.0282782
+    },
+    "openingHoursRaw": "Mo - Fri 7:30 am - 10:30 pm, Sat 7:30 am - 9:40 pm , Sun 2 pm - 10:30 pm",
+    "website": "https://instagram.com/ayni.puzzles.coffee/",
+    "phone": "+51 953 065 664",
+    "cuisine": "sandwich;coffee_shop;peruvian;dessert;chocolate;cafe;maracumango;snackbar",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11742779836",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-3663929096-ballabio-cafe",
+    "name": "Ballabio Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Narciso de la Colina 205",
+    "coordinates": {
+      "lat": -12.1181909,
+      "lon": -77.0275507
+    },
+    "openingHoursRaw": "Mo-Sa 07:30-22:00",
+    "website": null,
+    "phone": "+51 1 2412649",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/3663929096",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4880939821-barletto",
+    "name": "Barletto",
+    "neighborhood": "Miraflores",
+    "address": "Calle Teniente Enrique Palacios 201",
+    "coordinates": {
+      "lat": -12.1170795,
+      "lon": -77.030432
+    },
+    "openingHoursRaw": "Mo-Su 08:00-22:00",
+    "website": null,
+    "phone": "+511 4445280",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4880939821",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9953111163-barra-botanica",
+    "name": "Barra Botánica",
+    "neighborhood": "Miraflores",
+    "address": "Calle Libertad 439",
+    "coordinates": {
+      "lat": -12.1221714,
+      "lon": -77.0330398
+    },
+    "openingHoursRaw": "Mo-Sa 09:00-22:00; Su 09:00-20:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/9953111163",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9955806860-beso-frances",
+    "name": "Beso Frances",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1219563,
+      "lon": -77.0311585
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9955806860",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11988930516-beso-frances",
+    "name": "Beso Frances",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1306581,
+      "lon": -77.0297384
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "crepe",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11988930516",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-383851796-beso-frances",
+    "name": "Beso Francés",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1366627,
+      "lon": -77.0233398
+    },
+    "openingHoursRaw": "07:30-20:00",
+    "website": "https://www.maclima.pe/?servicios=centro",
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/383851796",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4375873934-bla-coffee",
+    "name": "Bla Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1222492,
+      "lon": -77.0260654
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4375873934",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-359674011-buenavista-cafe",
+    "name": "BuenaVista Café",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1190515,
+      "lon": -77.0452557
+    },
+    "openingHoursRaw": null,
+    "website": "https://www.buenavistacafe.pe/",
+    "phone": "+51 942 703 359",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/359674011",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336067815-cafe-21",
+    "name": "Café 21",
+    "neighborhood": "Miraflores",
+    "address": "Calle General Borgoño 116",
+    "coordinates": {
+      "lat": -12.1189008,
+      "lon": -77.0333423
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+511 6169900",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336067815",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336218120-cafe-21",
+    "name": "Café 21",
+    "neighborhood": "Miraflores",
+    "address": "Calle Alcanfores",
+    "coordinates": {
+      "lat": -12.1244207,
+      "lon": -77.0277818
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336218120",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4865310622-cafe-347",
+    "name": "Cafe 347",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1221859,
+      "lon": -77.0270316
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "sandwich;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4865310622",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1669641512-cafe-cafe",
+    "name": "Cafe cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle José Olaya 250",
+    "coordinates": {
+      "lat": -12.1205272,
+      "lon": -77.0303335
+    },
+    "openingHoursRaw": "Mo-Su 09:00-03:00",
+    "website": null,
+    "phone": "+511 4451165",
+    "cuisine": "ice_cream;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1669641512",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4416293599-cafe-de-lima",
+    "name": "Café de Lima",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Angamos Oeste 1003",
+    "coordinates": {
+      "lat": -12.1141681,
+      "lon": -77.0390095
+    },
+    "openingHoursRaw": "Mo-Su 07:00-23:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4416293599",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436616074-cafe-del-porta",
+    "name": "Cafe Del Porta",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1415962,
+      "lon": -77.0204098
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436616074",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12713826301-cafe-gianfranco",
+    "name": "Cafe Gianfranco",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0933132,
+      "lon": -77.0387728
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12713826301",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4376074896-cafe-italiano",
+    "name": "Café Italiano",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco",
+    "coordinates": {
+      "lat": -12.1289352,
+      "lon": -77.0298749
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4376074896",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13912272214-cafe-la-sala",
+    "name": "Cafe la Sala",
+    "neighborhood": "Surquillo",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1067707,
+      "lon": -77.0123256
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13912272214",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11976548287-cafe-piola",
+    "name": "Café Piola",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1238531,
+      "lon": -77.0279788
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11976548287",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6273277812-cafe-refill",
+    "name": "Cafe Refill",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1237618,
+      "lon": -77.0337797
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6273277812",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4848037921-cafefit",
+    "name": "Cafefit",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1212668,
+      "lon": -77.0328578
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4848037921",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4987016022-cafeteria-suarez",
+    "name": "Cafetería Suárez",
+    "neighborhood": "Miraflores",
+    "address": "Calle General Suárez 200",
+    "coordinates": {
+      "lat": -12.1102625,
+      "lon": -77.0275667
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+511 4458067",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4987016022",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11986034819-caffe-gianfranco",
+    "name": "Caffe Gianfranco",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.111556,
+      "lon": -77.0331993
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11986034819",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4557991261-caficulto",
+    "name": "Caficulto",
+    "neighborhood": "Miraflores",
+    "address": "Pasaje Tello",
+    "coordinates": {
+      "lat": -12.1211838,
+      "lon": -77.028213
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4557991261",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13544521339-cardinal-cafe",
+    "name": "Cardinal Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Alcanfores 272",
+    "coordinates": {
+      "lat": -12.1221044,
+      "lon": -77.0278736
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13544521339",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13588590861-carta-blanca",
+    "name": "Carta Blanca",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1149215,
+      "lon": -77.0390669
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13588590861",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-2512387144-casa-gourmet",
+    "name": "Casa Gourmet",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0958956,
+      "lon": -77.0351474
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/2512387144",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4332677514-chef-s-cafe",
+    "name": "Chef's Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco",
+    "coordinates": {
+      "lat": -12.1252309,
+      "lon": -77.0293008
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4332677514",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4341874725-chef-s-cafe",
+    "name": "Chef's Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco",
+    "coordinates": {
+      "lat": -12.1210621,
+      "lon": -77.028896
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4341874725",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435709540-choco-museo-y-cafe",
+    "name": "Choco Museo y Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Berlín 375",
+    "coordinates": {
+      "lat": -12.1208469,
+      "lon": -77.0333906
+    },
+    "openingHoursRaw": "Mo-Su 9:30-11:30, 14:30-17:30",
+    "website": "https://www.chocomuseo.com/lima-calle-berlin-bean-to-bar-workshop/",
+    "phone": "+511 4459708",
+    "cuisine": "bar;chocolate",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435709540",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7058345087-chocolate-y-cocoa",
+    "name": "Chocolate y Cocoa",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1470338,
+      "lon": -77.0214964
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7058345087",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4353057827-city-coffee",
+    "name": "City Coffee",
+    "neighborhood": "Surquillo",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1040272,
+      "lon": -77.0010538
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4353057827",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4335608345-clava",
+    "name": "Clava",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Comandante Espinar",
+    "coordinates": {
+      "lat": -12.1109857,
+      "lon": -77.0370806
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4335608345",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6568093685-clemente-cafe",
+    "name": "Clemente café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1211309,
+      "lon": -77.0368245
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6568093685",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13573191897-coco-fresh-tea-juice",
+    "name": "CoCo Fresh Tea & Juice",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1258325,
+      "lon": -77.0293427
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "bubble_tea",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13573191897",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13550865276-cofaine",
+    "name": "Cofaine",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1223075,
+      "lon": -77.0295652
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13550865276",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769124-coffee-busters",
+    "name": "Coffee Busters",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Dos de Mayo 412",
+    "coordinates": {
+      "lat": -12.0909489,
+      "lon": -77.0364622
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13584769124",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436580904-coffee-element",
+    "name": "Coffee Element",
+    "neighborhood": "Barranco",
+    "address": "Avenida Almirante Miguel Grau",
+    "coordinates": {
+      "lat": -12.1423775,
+      "lon": -77.0222223
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436580904",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13570089221-coffeebrix",
+    "name": "Coffeebrix",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1257807,
+      "lon": -77.0297632
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13570089221",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11988930512-cofi-jaus",
+    "name": "Cofi Jaus",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.113011,
+      "lon": -77.038152
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11988930512",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12688236101-cofijaus",
+    "name": "Cofijaus",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1281749,
+      "lon": -77.0215632
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/12688236101",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574733254-coin-sante",
+    "name": "Coin Santé",
+    "neighborhood": "Lima",
+    "address": "Calle Miguel Seminario 180",
+    "coordinates": {
+      "lat": -12.094894,
+      "lon": -77.0233314
+    },
+    "openingHoursRaw": "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-19:00",
+    "website": null,
+    "phone": "+51 932 545 925",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574733254",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436603128-coleccionista",
+    "name": "Coleccionista",
+    "neighborhood": "Barranco",
+    "address": "Avenida Prolongación General José de San Martín 144",
+    "coordinates": {
+      "lat": -12.1455814,
+      "lon": -77.022857
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+51 1 247 3206",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436603128",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436278841-conchale",
+    "name": "Cónchale",
+    "neighborhood": "Lima",
+    "address": "Avenida General César Canevaro",
+    "coordinates": {
+      "lat": -12.0842818,
+      "lon": -77.0410286
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436278841",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10859140305-container",
+    "name": "Container",
+    "neighborhood": "Surquillo",
+    "address": "Avenida Sergio Bernales",
+    "coordinates": {
+      "lat": -12.1176968,
+      "lon": -77.0140664
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10859140305",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4346168708-cora-cora",
+    "name": "Cora Cora",
+    "neighborhood": "Lima",
+    "address": "Avenida Mariscal La Mar",
+    "coordinates": {
+      "lat": -12.1126293,
+      "lon": -77.0461906
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4346168708",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5470184321-cosita-buena",
+    "name": "cosita buena",
+    "neighborhood": "Miraflores",
+    "address": "Calle Federico Recavarren 312",
+    "coordinates": {
+      "lat": -12.1213212,
+      "lon": -77.0337779
+    },
+    "openingHoursRaw": "Tu-Su 08:30-21:30",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop;breakfast;ice_cream;burger;cake;tapas;tea",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5470184321",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6515755085-creme-de-la-creme",
+    "name": "Crème de la Crème",
+    "neighborhood": "Miraflores",
+    "address": "Calle Cristobal Colón 381",
+    "coordinates": {
+      "lat": -12.1271194,
+      "lon": -77.0308896
+    },
+    "openingHoursRaw": "08:00-21:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "french",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6515755085",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4344671793-d-lorena",
+    "name": "D' Lorena",
+    "neighborhood": "Lima",
+    "address": "Jirón Simón Salguero",
+    "coordinates": {
+      "lat": -12.1304928,
+      "lon": -77.008984
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4344671793",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5005004323-delicass",
+    "name": "Delicass",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Miguel Dasso 165",
+    "coordinates": {
+      "lat": -12.1065485,
+      "lon": -77.0400283
+    },
+    "openingHoursRaw": null,
+    "website": "https://www.delicass.com.pe/",
+    "phone": "+51 945530448",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5005004323",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12965158452-delicass",
+    "name": "Delicass",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Enrique Canaval y Moreyra",
+    "coordinates": {
+      "lat": -12.0974346,
+      "lon": -77.0222633
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12965158452",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5780104178-delizia-cafe",
+    "name": "Delizia Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Berlín 517",
+    "coordinates": {
+      "lat": -12.1203632,
+      "lon": -77.0352776
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+51 54 4463467",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5780104178",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5058654421-dolce-capriccio",
+    "name": "Dolce capriccio",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0940075,
+      "lon": -77.0276371
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5058654421",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12956946802-don-guto-coffee-company",
+    "name": "Don Guto Coffee company",
+    "neighborhood": "Barranco",
+    "address": "Jirón Juan Fanning 109",
+    "coordinates": {
+      "lat": -12.1360904,
+      "lon": -77.0225688
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+51915046506",
+    "cuisine": "cake;chicken;coffee_shop;peruvian;pizza;sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12956946802",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435345450-don-mamino",
+    "name": "Don Mamino",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Los Conquistadores",
+    "coordinates": {
+      "lat": -12.103899,
+      "lon": -77.0372319
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435345450",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13583892352-don-salazar",
+    "name": "Don Salazar",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0925283,
+      "lon": -77.0292287
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13583892352",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9955499464-dulce-ciudad",
+    "name": "Dulce Ciudad",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.121541,
+      "lon": -77.0270691
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": "+51902250328",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9955499464",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-438465252-dulce-y-delicia",
+    "name": "Dulce y Delicia",
+    "neighborhood": "Lima",
+    "address": "Avenida Velasco Astete",
+    "coordinates": {
+      "lat": -12.1338827,
+      "lon": -76.9901283
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/438465252",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4327165772-dunkin-donuts",
+    "name": "Dunkin' Donuts",
+    "neighborhood": "Lima",
+    "address": "Avenida Alfredo Benavides",
+    "coordinates": {
+      "lat": -12.1278396,
+      "lon": -77.0093755
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "donut",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4327165772",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435841084-dunkin-donuts",
+    "name": "Dunkin' Donuts",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0918374,
+      "lon": -77.0279631
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "donut",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435841084",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12170914961-el-argentino",
+    "name": "El Argentino",
+    "neighborhood": "Miraflores",
+    "address": "Calle Enrique Palacios 1066",
+    "coordinates": {
+      "lat": -12.1170062,
+      "lon": -77.0396452
+    },
+    "openingHoursRaw": "Mo 12:30-22:30; Tu-Su 9:00-22:30;",
+    "website": "https://www.facebook.com/heladeriaelargentino/",
+    "phone": "+51 986 330 275",
+    "cuisine": "argentinian",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/12170914961",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5351967621-el-bigote-cafe-y-gofres",
+    "name": "El Bigote Café y Gofres",
+    "neighborhood": "Barranco",
+    "address": "Avenida Almirante Miguel Grau 1460",
+    "coordinates": {
+      "lat": -12.1372441,
+      "lon": -77.0224274
+    },
+    "openingHoursRaw": "Mo-Sa 10:00-22:00; Su 10:00-21:30",
+    "website": null,
+    "phone": "+51999700904",
+    "cuisine": "cake;international;breakfast;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5351967621",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12118577801-el-pan-de-bertini",
+    "name": "El Pan de Bertini",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1276986,
+      "lon": -77.0278317
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "breakfast;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12118577801",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-2906573615-el-pan-de-la-chola-cafeteria",
+    "name": "El Pan de la Chola Cafeteria",
+    "neighborhood": "Lima",
+    "address": "Avenida Mariscal La Mar 918",
+    "coordinates": {
+      "lat": -12.1123294,
+      "lon": -77.0464889
+    },
+    "openingHoursRaw": "Mo off; Tu-Sa 08:00-22:00; Su 12:00-20:00",
+    "website": null,
+    "phone": "+51 1 2212138",
+    "cuisine": "coffe_shop;bread;pizza",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/2906573615",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9420874944-el-rincon-de-don-miguelo",
+    "name": "El Rincón de Don Miguelo",
+    "neighborhood": "Lima",
+    "address": "105",
+    "coordinates": {
+      "lat": -12.0858558,
+      "lon": -77.0527174
+    },
+    "openingHoursRaw": "Mo-Sa 10:00-18:00",
+    "website": null,
+    "phone": "+51 995674737",
+    "cuisine": "coffee_shop;sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9420874944",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769126-enhorabuena-cafe",
+    "name": "Enhorabuena Café",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0911074,
+      "lon": -77.0356051
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13584769126",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13588590862-ese",
+    "name": "Ese",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1142038,
+      "lon": -77.0407788
+    },
+    "openingHoursRaw": "Tu-Su 10:00-17:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13588590862",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4685330589-estacion-329",
+    "name": "Estación 329",
+    "neighborhood": "Miraflores",
+    "address": "Calle Teniente Enrique Palacios 329",
+    "coordinates": {
+      "lat": -12.1171251,
+      "lon": -77.0318711
+    },
+    "openingHoursRaw": "Mo-Su 07:30-20:00",
+    "website": null,
+    "phone": "+511 4915308",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4685330589",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7500038893-estacion-cafe-de-luz",
+    "name": "Estación Café de Luz",
+    "neighborhood": "Lima",
+    "address": "Jirón Simón Salguero 534",
+    "coordinates": {
+      "lat": -12.1304172,
+      "lon": -77.0082881
+    },
+    "openingHoursRaw": "Mo-Sa 08:00-20:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop;regional",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7500038893",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4352073756-eureka-cafe-ludico",
+    "name": "Eureka Café Lúdico",
+    "neighborhood": "Miraflores",
+    "address": "Calle Federico Villarreal",
+    "coordinates": {
+      "lat": -12.0995669,
+      "lon": -77.0305466
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4352073756",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4375092777-finca-la-campina",
+    "name": "Finca La Campiña",
+    "neighborhood": "Barranco",
+    "address": "Avenida Nicolas de Pierola 110",
+    "coordinates": {
+      "lat": -12.1413578,
+      "lon": -77.0217685
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4375092777",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4343697086-flaveria-essenza",
+    "name": "Flaveria Essenza",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1303044,
+      "lon": -77.0075988
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4343697086",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13247923295-flora-cafe",
+    "name": "Flora Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1274095,
+      "lon": -77.0179806
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13247923295",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-511851523-frutimiel",
+    "name": "Frutimiel",
+    "neighborhood": "Lima",
+    "address": "Jirón José Galvez",
+    "coordinates": {
+      "lat": -12.1460402,
+      "lon": -77.0046318
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/511851523",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4344769648-fuente-de-soda-q-tal-sabor",
+    "name": "Fuente de Soda Q'Tal Sabor",
+    "neighborhood": "Lima",
+    "address": "Avenida Alvarez de Arenales",
+    "coordinates": {
+      "lat": -12.0829457,
+      "lon": -77.0357539
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4344769648",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13092924702-good-moov",
+    "name": "good moov",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1192643,
+      "lon": -77.0350291
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "breakfast;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13092924702",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10832913305-gourmet-experience",
+    "name": "Gourmet Experience",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1042297,
+      "lon": -77.0323472
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10832913305",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769137-gourmety",
+    "name": "Gourmety",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Ricardo Rivera Navarrete 575",
+    "coordinates": {
+      "lat": -12.0929702,
+      "lon": -77.0266027
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13584769137",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574733252-grano-sagrado",
+    "name": "Grano Sagrado",
+    "neighborhood": "Lima",
+    "address": "Calle German Schreiber 110",
+    "coordinates": {
+      "lat": -12.0949455,
+      "lon": -77.0231429
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574733252",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4344555008-habana-lima",
+    "name": "Habana Lima",
+    "neighborhood": "Lima",
+    "address": "Avenida Ignacio Merino",
+    "coordinates": {
+      "lat": -12.0840458,
+      "lon": -77.0324283
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4344555008",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4755355201-hamma",
+    "name": "HAMMA",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0864545,
+      "lon": -76.9988186
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "burger",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4755355201",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6280927992-havanna",
+    "name": "Havanna",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1189063,
+      "lon": -77.0320025
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6280927992",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11984487598-havanna",
+    "name": "Havanna",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1124266,
+      "lon": -77.0292186
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11984487598",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13058728698-havanna",
+    "name": "Havanna",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0947829,
+      "lon": -77.0255998
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13058728698",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13588590876-havanna",
+    "name": "Havanna",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.122799,
+      "lon": -77.0323338
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13588590876",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13908247699-havanna",
+    "name": "Havanna",
+    "neighborhood": "Surquillo",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1099344,
+      "lon": -77.001465
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13908247699",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10815082907-helado-de-lima",
+    "name": "Helado de Lima",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1460293,
+      "lon": -77.0223131
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10815082907",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435337807-helarte",
+    "name": "Helarte",
+    "neighborhood": "Miraflores",
+    "address": "Calle Alcanfores",
+    "coordinates": {
+      "lat": -12.125586,
+      "lon": -77.0278302
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop;sandwich;dessert;ice_cream",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/way/435337807",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4882370225-holandulce-cafe",
+    "name": "Holandulce Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Domingo Elías 188",
+    "coordinates": {
+      "lat": -12.1127112,
+      "lon": -77.0290202
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "waffle;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4882370225",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4957728824-homemade",
+    "name": "Homemade",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1225001,
+      "lon": -77.0333169
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4957728824",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4345083882-house-cafe",
+    "name": "House Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida República de Panamá 6613",
+    "coordinates": {
+      "lat": -12.1325216,
+      "lon": -77.0177755
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4345083882",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11975962206-howm",
+    "name": "Howm",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1238855,
+      "lon": -77.0277792
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11975962206",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4313827690-intro-cafe-bar",
+    "name": "Intro Café Bar",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 355",
+    "coordinates": {
+      "lat": -12.1263742,
+      "lon": -77.029352
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffe_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4313827690",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13242186901-issimo-cafe-restaurant",
+    "name": "Íssimo Café & Restaurant",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.087451,
+      "lon": -77.0535566
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13242186901",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4308224061-istanbul-cafe",
+    "name": "Istanbul Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Andrés Aramburú 233",
+    "coordinates": {
+      "lat": -12.103076,
+      "lon": -77.0300459
+    },
+    "openingHoursRaw": null,
+    "website": "http://www.istanbulkebabhouseperu.com",
+    "phone": "+51 1 2215783",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4308224061",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6998612813-jack-rabbit",
+    "name": "Jack Rabbit",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0805017,
+      "lon": -77.0510146
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6998612813",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4831605121-juan-valdez-cafe",
+    "name": "Juan Valdez Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.13208,
+      "lon": -77.0302674
+    },
+    "openingHoursRaw": "Mo-Su 11:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4831605121",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4856427622-juan-valdez-cafe",
+    "name": "Juan Valdez Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1322085,
+      "lon": -77.0301416
+    },
+    "openingHoursRaw": "Mo-Sa 11:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4856427622",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10719391405-juan-valdez-cafe",
+    "name": "Juan Valdez Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1244198,
+      "lon": -77.0292919
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10719391405",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4733131221-jugueria",
+    "name": "Juguería",
+    "neighborhood": "Lima",
+    "address": "Jirón Emilio Althaus",
+    "coordinates": {
+      "lat": -12.0804085,
+      "lon": -77.0328677
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4733131221",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12363335204-kaiyo-rolls-sushi-ramen-cocktails",
+    "name": "Kaiyo Rolls - Sushi, Ramen & Cocktails",
+    "neighborhood": "Miraflores",
+    "address": "Calle Manuel Bonilla 170",
+    "coordinates": {
+      "lat": -12.1199575,
+      "lon": -77.0274553
+    },
+    "openingHoursRaw": "Tu-Th 12:00-23:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "japanese",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12363335204",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6273277811-kaldi-s-coffee-tea",
+    "name": "Kaldi's Coffee & Tea",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1242607,
+      "lon": -77.0340231
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/6273277811",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12694277601-kaldi-s-specialty-coffee",
+    "name": "Kaldi's Specialty Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1242506,
+      "lon": -77.0258116
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12694277601",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4326987389-kulcafe",
+    "name": "Kulcafé",
+    "neighborhood": "Miraflores",
+    "address": "Calle Bellavista 380",
+    "coordinates": {
+      "lat": -12.1222409,
+      "lon": -77.0323181
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4326987389",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-867461428-l-epicerie",
+    "name": "L'epicerie",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1062088,
+      "lon": -77.0405355
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/867461428",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12965158451-l-kafice-coffee-ice",
+    "name": "L'Kafice Coffee & Ice",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0974852,
+      "lon": -77.021071
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12965158451",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4351787454-la-5-estacion",
+    "name": "La 5 Estación",
+    "neighborhood": "Surquillo",
+    "address": "Jirón Andrés Vesalio",
+    "coordinates": {
+      "lat": -12.1051245,
+      "lon": -77.000898
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4351787454",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11595339569-la-bodega-verde",
+    "name": "La Bodega Verde",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1394653,
+      "lon": -77.0238391
+    },
+    "openingHoursRaw": "Mo-Su 07:00-22:00",
+    "website": null,
+    "phone": "+51 963349562",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11595339569",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7668108955-la-boulangerie",
+    "name": "La Boulangerie",
+    "neighborhood": "Miraflores",
+    "address": "Calle Tarapacá 263",
+    "coordinates": {
+      "lat": -12.1126825,
+      "lon": -77.0320674
+    },
+    "openingHoursRaw": "Mo-Fr 09:00-18:00",
+    "website": "https://www.laboulangerieperu.com/",
+    "phone": null,
+    "cuisine": "Vionosserie;patisserie;café;salon_de_thé",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/7668108955",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4376240317-la-cafetera",
+    "name": "La Cafetera",
+    "neighborhood": "Miraflores",
+    "address": "Calle Manuel Bonilla 126",
+    "coordinates": {
+      "lat": -12.1199483,
+      "lon": -77.0282165
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4376240317",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6473606085-la-caffetteria-di-lonato",
+    "name": "La Caffetteria - Di Lonato",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.116115,
+      "lon": -77.0415463
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/6473606085",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4102715291-la-casa-del-alfajor",
+    "name": "La Casa del Alfajor",
+    "neighborhood": "Lima",
+    "address": "Avenida San Borja Sur",
+    "coordinates": {
+      "lat": -12.1006502,
+      "lon": -76.9966722
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4102715291",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6051889829-la-cocina-de-ximena",
+    "name": "La Cocina de Ximena",
+    "neighborhood": "San Isidro",
+    "address": "Calle Santa Luisa 110",
+    "coordinates": {
+      "lat": -12.0943782,
+      "lon": -77.0341954
+    },
+    "openingHoursRaw": "Mo-Su,PH 08:00-21:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6051889829",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5802909841-la-culture",
+    "name": "La Culture",
+    "neighborhood": "Lima",
+    "address": "Jirón Matier",
+    "coordinates": {
+      "lat": -12.099581,
+      "lon": -77.0023115
+    },
+    "openingHoursRaw": "Mo-Su 10:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "italian;sandwich;coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/5802909841",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5796931654-la-dosis-dulce",
+    "name": "La Dosis Dulce",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Ernesto Diez Canseco 298",
+    "coordinates": {
+      "lat": -12.1224689,
+      "lon": -77.0279032
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/5796931654",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4346176219-la-esquina-del-sabor",
+    "name": "La Esquina del Sabor",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0865599,
+      "lon": -77.0323098
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4346176219",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336215844-la-favorita",
+    "name": "La Favorita",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco",
+    "coordinates": {
+      "lat": -12.122674,
+      "lon": -77.0292889
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336215844",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10827753008-la-finca-cafe",
+    "name": "La Finca Cafe",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1316725,
+      "lon": -77.022391
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10827753008",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336067824-la-lucha-sangucheria-criolla",
+    "name": "La Lucha Sangucheria Criolla",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1203441,
+      "lon": -77.0300806
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336067824",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-381951226-la-mora",
+    "name": "La Mora",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Miguel Grau 400",
+    "coordinates": {
+      "lat": -12.1224359,
+      "lon": -77.0349863
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/381951226",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10243273979-la-nuez",
+    "name": "La Nuez",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0979001,
+      "lon": -76.9947533
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "bakery",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10243273979",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9702202981-la-oveya-verde",
+    "name": "La Oveya Verde",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1230253,
+      "lon": -77.0280771
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9702202981",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4382389658-la-parada",
+    "name": "La Parada",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 788",
+    "coordinates": {
+      "lat": -12.1258131,
+      "lon": -77.0295988
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4382389658",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4685751789-la-postreria-cafe",
+    "name": "La Postrería Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Enrique Palacios 1008",
+    "coordinates": {
+      "lat": -12.1170097,
+      "lon": -77.0390876
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "breakfast;cake;coffee_shop;sandwich;tea",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4685751789",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9951589296-la-puntita",
+    "name": "La Puntita",
+    "neighborhood": "Miraflores",
+    "address": "Calle Berlín 167",
+    "coordinates": {
+      "lat": -12.1222474,
+      "lon": -77.0317971
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9951589296",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435658519-la-salchipaperia",
+    "name": "La Salchipaperia",
+    "neighborhood": "Miraflores",
+    "address": "Calle General Suárez",
+    "coordinates": {
+      "lat": -12.1170618,
+      "lon": -77.0273417
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435658519",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12374602172-la-teoria-de-los-6-cafes",
+    "name": "La Teoría de los 6 Cafés",
+    "neighborhood": "Lima",
+    "address": "Calle General Mendiburú 890",
+    "coordinates": {
+      "lat": -12.1124889,
+      "lon": -77.0475384
+    },
+    "openingHoursRaw": "Mo-Su 07:30-21:00",
+    "website": "https://www.instagram.com/teoriadelos6cafes/",
+    "phone": null,
+    "cuisine": "pastry;dessert;sandwich;juice;coffee",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/12374602172",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12374602173-la-teoria-de-los-6-cafes",
+    "name": "La Teoría de los 6 Cafés",
+    "neighborhood": "Miraflores",
+    "address": "Calle Las Camelias 763",
+    "coordinates": {
+      "lat": -12.0971986,
+      "lon": -77.0285612
+    },
+    "openingHoursRaw": "Mo-Su 07:30-21:00",
+    "website": "https://www.instagram.com/teoriadelos6cafes/",
+    "phone": null,
+    "cuisine": "pastry;dessert;sandwich;juice;coffee",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12374602173",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435688009-la-teoria-de-los-6-cafes",
+    "name": "La Teoría de los 6 Cafés",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Los Conquistadores 181",
+    "coordinates": {
+      "lat": -12.0976387,
+      "lon": -77.0359044
+    },
+    "openingHoursRaw": "Mo-Su 07:30-20:00",
+    "website": "https://www.instagram.com/teoriadelos6cafes/",
+    "phone": null,
+    "cuisine": "pastry;dessert;sandwich;juice;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435688009",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7674306366-laritza",
+    "name": "Laritza",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.113132,
+      "lon": -76.991876
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7674306366",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4262398590-las-vecinas",
+    "name": "Las Vecinas",
+    "neighborhood": "Barranco",
+    "address": "Jirón Domeyer 219",
+    "coordinates": {
+      "lat": -12.1479573,
+      "lon": -77.0226132
+    },
+    "openingHoursRaw": "We-Mo 10:00-22:00",
+    "website": null,
+    "phone": "+51 1 4773253",
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4262398590",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12170914960-latte-bakery",
+    "name": "Latte Bakery",
+    "neighborhood": "Miraflores",
+    "address": "Calle Enrique Palacios 897",
+    "coordinates": {
+      "lat": -12.1172069,
+      "lon": -77.0380171
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/12170914960",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6049876112-le-cafe-by-swissotel",
+    "name": "Le Cafe by Swissôtel",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Santo Toribio 173",
+    "coordinates": {
+      "lat": -12.097362,
+      "lon": -77.0379722
+    },
+    "openingHoursRaw": "Mo-Fr 06:00-10:00,12:30-16:00; Sa-Su 06:00-10:00",
+    "website": "https://www.swissotel.com/hotels/lima/dining/le-cafe/",
+    "phone": "+511 4214400",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6049876112",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7233879486-les-gourmands",
+    "name": "Les Gourmands",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1220099,
+      "lon": -77.032931
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7233879486",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10164186900-liberta-cafe",
+    "name": "Liberta Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Schell 455",
+    "coordinates": {
+      "lat": -12.123151,
+      "lon": -77.0272235
+    },
+    "openingHoursRaw": "Mo-Fri 07:00-21:00",
+    "website": "https://libertacafe.negocio.site/",
+    "phone": null,
+    "cuisine": "coffee_shop;sandwich;salad",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/10164186900",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4908110121-libreriacafe-contracultura",
+    "name": "LibreriaCafe (ContraCultura)",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1272592,
+      "lon": -77.0297245
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4908110121",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11979611230-los-silencios-cafe-vinilos",
+    "name": "Los Silencios Café & Vinilos",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1204476,
+      "lon": -77.0328108
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11979611230",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6050128598-los-vitriales",
+    "name": "Los Vitriales",
+    "neighborhood": "San Isidro",
+    "address": "Calle Los Eucaliptos 590",
+    "coordinates": {
+      "lat": -12.097922,
+      "lon": -77.0484949
+    },
+    "openingHoursRaw": "Mo-Su 17:30-20:00",
+    "website": "https://www.countryclublimahotel.com//es/dinning/los-vitrales",
+    "phone": "+511 6119000",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6050128598",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9335260347-lucio-cafe",
+    "name": "Lucio Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1320917,
+      "lon": -77.0302575
+    },
+    "openingHoursRaw": "Mo-Su 11:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9335260347",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12634657401-lucio-cafe",
+    "name": "Lucio Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1295815,
+      "lon": -77.0221609
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12634657401",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435186692-lucio-caffe",
+    "name": "Lucio Caffe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Angamos Oeste",
+    "coordinates": {
+      "lat": -12.1144289,
+      "lon": -77.0397493
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435186692",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435873173-lucio-caffe",
+    "name": "Lucio Caffe",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Dos de Mayo",
+    "coordinates": {
+      "lat": -12.0911893,
+      "lon": -77.0387395
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435873173",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4417016570-manolo",
+    "name": "Manolo",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 608",
+    "coordinates": {
+      "lat": -12.1230498,
+      "lon": -77.0293559
+    },
+    "openingHoursRaw": "Mo-Fr 07:15-01:00; Sa-Su 08:15-01:00",
+    "website": "http://www.manolochurros.com/",
+    "phone": "+511 4442244",
+    "cuisine": "churro",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4417016570",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11244799734-marida-coffee-wine",
+    "name": "Maridá Coffee & Wine",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1445196,
+      "lon": -77.0231938
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11244799734",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12852213505-market-cafe",
+    "name": "Market Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1285408,
+      "lon": -77.0332293
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12852213505",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13570713041-matcha-matcha-tea-roon",
+    "name": "Matcha Matcha Tea Roon",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1246253,
+      "lon": -77.0273433
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "tea",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13570713041",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4735253121-mi-fruta",
+    "name": "Mi Fruta",
+    "neighborhood": "Lima",
+    "address": "Avenida Canada",
+    "coordinates": {
+      "lat": -12.0839386,
+      "lon": -77.0139028
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4735253121",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7223848785-milenaria-cafe",
+    "name": "Milenaria Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Alcanfores 199",
+    "coordinates": {
+      "lat": -12.1214312,
+      "lon": -77.0276358
+    },
+    "openingHoursRaw": "Mo-Sa 08:00-21:00; Su 08:00-19:00",
+    "website": null,
+    "phone": "+51 1 6954938",
+    "cuisine": "sandwich;breakfast;coffee_shop;local",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7223848785",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10051774418-milenaria-cafe",
+    "name": "Milenaria Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Alcanfores 348",
+    "coordinates": {
+      "lat": -12.1228964,
+      "lon": -77.0278936
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/10051774418",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9955434130-milimetrica-coffee-co",
+    "name": "Milimétrica Coffee Co",
+    "neighborhood": "Miraflores",
+    "address": "Calle Alcanfores 215",
+    "coordinates": {
+      "lat": -12.1216662,
+      "lon": -77.0276756
+    },
+    "openingHoursRaw": "Mo-Sa 07:30-20:00; Su 09:00-16:00",
+    "website": "https://www.instagram.com/milimetricacoffee/",
+    "phone": null,
+    "cuisine": "coffee_shop;specialty_coffee;sandwich;bagel;coffee",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9955434130",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574534484-montcafe",
+    "name": "Montcafé",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Ricardo Rivera Navarrete 570",
+    "coordinates": {
+      "lat": -12.0929162,
+      "lon": -77.027018
+    },
+    "openingHoursRaw": "Mo-Fr 07:30-21:30; Sa 08:30-21:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574534484",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4344668967-munay",
+    "name": "Munay",
+    "neighborhood": "Lima",
+    "address": "Avenida La Merced",
+    "coordinates": {
+      "lat": -12.1343539,
+      "lon": -77.0094116
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4344668967",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-1512663088-nandos-caffe",
+    "name": "Nandos Caffe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Grimaldo del Solar 265",
+    "coordinates": {
+      "lat": -12.1244969,
+      "lon": -77.0257833
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-20:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/1512663088",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6032894690-neira-cafe-lab",
+    "name": "Neira Café Lab",
+    "neighborhood": "Miraflores",
+    "address": "Calle Enrique Palacios 1074",
+    "coordinates": {
+      "lat": -12.1169915,
+      "lon": -77.0398695
+    },
+    "openingHoursRaw": "Mo-Fr 07:00-21:00; Su 09:00-18:00; Sa 08:00-21:00",
+    "website": null,
+    "phone": "+51 1 3180398",
+    "cuisine": "cake;sandwich;breakfast",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6032894690",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4376633469-news-cafe-coffee-shop",
+    "name": "News Cafe Coffee Shop",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 651",
+    "coordinates": {
+      "lat": -12.1237218,
+      "lon": -77.029165
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4376633469",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574534493-nitido-coffee-co",
+    "name": "Nítido coffee co",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Ricardo Rivera Navarrete 585",
+    "coordinates": {
+      "lat": -12.0930316,
+      "lon": -77.0266144
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-21:00; Su 12:30-20:30",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574534493",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-10092537217-obdulia-emolientera",
+    "name": "Obdulia Emolientera",
+    "neighborhood": "Barranco",
+    "address": "Jirón Nicolas de Pierola 136",
+    "coordinates": {
+      "lat": -12.1462244,
+      "lon": -77.0218575
+    },
+    "openingHoursRaw": "Mo-Su 16:00-22:30",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/10092537217",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4702982990-origen-tostadores-de-cafe",
+    "name": "Origen Tostadores de Cafe",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1033857,
+      "lon": -77.0213776
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4702982990",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12063966080-pache-cafe",
+    "name": "Pache Cafe",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1367352,
+      "lon": -77.0224663
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12063966080",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-434946699-palermo",
+    "name": "Palermo",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1283314,
+      "lon": -77.0064048
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/434946699",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-437364856-palermo",
+    "name": "Palermo",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0939143,
+      "lon": -77.0056351
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/437364856",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-867463660-pan-de-la-chola",
+    "name": "Pan de la Chola",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Miguel Dasso 113",
+    "coordinates": {
+      "lat": -12.1058256,
+      "lon": -77.0400593
+    },
+    "openingHoursRaw": "Mo-Su 07:00-22:00",
+    "website": "https://elpandelachola.com",
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/867463660",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574534496-panaca",
+    "name": "Panaca",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.092256,
+      "lon": -77.0267789
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574534496",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9702198199-panaderia-central-cafe-bakery",
+    "name": "Panadería Central - Cafe & Bakery",
+    "neighborhood": "Miraflores",
+    "address": "Calle Independencia 589",
+    "coordinates": {
+      "lat": -12.1141175,
+      "lon": -77.0324771
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9702198199",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13587539125-pandacha",
+    "name": "PandaCha",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0922837,
+      "lon": -77.0269886
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "bubble_tea",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13587539125",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4335857241-panera-y-cafe",
+    "name": "Panera y Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Los Conquistadores",
+    "coordinates": {
+      "lat": -12.098428,
+      "lon": -77.0361424
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4335857241",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4880939925-parque-sol-terraza-cafe",
+    "name": "Parque Sol Terraza Café",
+    "neighborhood": "Miraflores",
+    "address": "Calle Piura 498",
+    "coordinates": {
+      "lat": -12.1157773,
+      "lon": -77.0333099
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop;sandwich",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/4880939925",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6185047386-passion-for-fruit",
+    "name": "Passion for Fruit",
+    "neighborhood": "Miraflores",
+    "address": "Calle José Gálvez",
+    "coordinates": {
+      "lat": -12.1214425,
+      "lon": -77.0336197
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "tea;sandwich;coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6185047386",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13583892357-pastipan",
+    "name": "Pastipan",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0913532,
+      "lon": -77.0378987
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13583892357",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11984487602-pausa-cafe",
+    "name": "Pausa Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1202857,
+      "lon": -77.0335767
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11984487602",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11986034816-pausa-cafe",
+    "name": "Pausa Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1202856,
+      "lon": -77.0335766
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11986034816",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13546720268-paz-y-espresso",
+    "name": "Paz y Espresso",
+    "neighborhood": "Barranco",
+    "address": "Avenida Almirante Miguel Grau 184",
+    "coordinates": {
+      "lat": -12.150794,
+      "lon": -77.0202881
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13546720268",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4563477390-piero-s-pasteleria-fina",
+    "name": "Piero's Pastelería Fina",
+    "neighborhood": "Lima",
+    "address": "Avenida Alvarez de Arenales 2001",
+    "coordinates": {
+      "lat": -12.0848451,
+      "lon": -77.0355024
+    },
+    "openingHoursRaw": "Mo-Sa 07:30-22:30",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4563477390",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6379716885-pinero-s",
+    "name": "Piñero's",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1227193,
+      "lon": -77.0278187
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6379716885",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12601569982-praga",
+    "name": "praga",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1135314,
+      "lon": -77.0474817
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12601569982",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4884500221-provence-bistrot-cafe",
+    "name": "Provence Bistrot Café",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Arequipa 4595",
+    "coordinates": {
+      "lat": -12.1140385,
+      "lon": -77.0290629
+    },
+    "openingHoursRaw": null,
+    "website": "http://bistrotprovence.com.pe/",
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4884500221",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4351450990-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "address": "Calle Narciso de la Colina 297",
+    "coordinates": {
+      "lat": -12.1181906,
+      "lon": -77.0275949
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-21:00",
+    "website": "https://pukupuku.pe/",
+    "phone": "+511 2429146",
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4351450990",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4376010349-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1221229,
+      "lon": -77.026687
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4376010349",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5252894524-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 1285",
+    "coordinates": {
+      "lat": -12.1305751,
+      "lon": -77.0296624
+    },
+    "openingHoursRaw": "Mo-Sa 07:00-19:00",
+    "website": "https://pukupuku.pe/",
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5252894524",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7248162087-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "address": "Calle Libertad 401",
+    "coordinates": {
+      "lat": -12.1220197,
+      "lon": -77.0329349
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7248162087",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11975962202-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1396873,
+      "lon": -77.0225738
+    },
+    "openingHoursRaw": "07:00-23:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11975962202",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13588590870-puku-puku",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.13151,
+      "lon": -77.0312892
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13588590870",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11986095345-puku-puku-bcp-cafe",
+    "name": "Puku Puku BCP Café",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Miguel Dasso 185",
+    "coordinates": {
+      "lat": -12.1067964,
+      "lon": -77.0399985
+    },
+    "openingHoursRaw": null,
+    "website": "https://pukupuku.pe/",
+    "phone": "+51 996 452 482",
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11986095345",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5015691222-puku-puku-cafe",
+    "name": "Puku puku cafe",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1067927,
+      "lon": -77.0388235
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5015691222",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769141-quinoa-cafe",
+    "name": "Quinoa Café",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.093224,
+      "lon": -77.0276848
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13584769141",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12063609264-raiz-coffee",
+    "name": "Raiz Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1233684,
+      "lon": -77.0314182
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12063609264",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12601928893-risso",
+    "name": "Risso",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1225978,
+      "lon": -77.0320851
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12601928893",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4343603758-rito-y-tradicion",
+    "name": "Rito y Tradición",
+    "neighborhood": "San Isidro",
+    "address": "Jirón Francisco Masias",
+    "coordinates": {
+      "lat": -12.0892981,
+      "lon": -77.0263287
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4343603758",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4357682602-romanoff-cafe-sangucheria",
+    "name": "Romanoff Café Sanguchería",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0818669,
+      "lon": -77.0168361
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4357682602",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12040553047-rue",
+    "name": "Rue",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.148218,
+      "lon": -77.0231759
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12040553047",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4539649099-rutina-cafe",
+    "name": "Rutina Café",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Grau 400",
+    "coordinates": {
+      "lat": -12.122428,
+      "lon": -77.0350003
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4539649099",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574534491-rutina-cafe",
+    "name": "Rutina Café",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0925604,
+      "lon": -77.0240933
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13574534491",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13894223801-sagrado-cafe",
+    "name": "Sagrado Café",
+    "neighborhood": "Barranco",
+    "address": "Jirón Mariano Melgar 257",
+    "coordinates": {
+      "lat": -12.1509167,
+      "lon": -77.0228073
+    },
+    "openingHoursRaw": "Tu-Su 09:30-20:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13894223801",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1426835752-san-antonio",
+    "name": "San Antonio",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Angamos 1494",
+    "coordinates": {
+      "lat": -12.110925,
+      "lon": -77.042928
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "sandwich",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1426835752",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-510001283-sangucheria-el-chinito",
+    "name": "Sangucheria El Chinito",
+    "neighborhood": "Barranco",
+    "address": "Abenida Almirante Miguel Grau 301",
+    "coordinates": {
+      "lat": -12.1485962,
+      "lon": -77.0209544
+    },
+    "openingHoursRaw": null,
+    "website": "http://www.elchinito.com.pe/locales.html",
+    "phone": "+51 946 091680",
+    "cuisine": "coffee;burger",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/510001283",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4336241752-santagula",
+    "name": "Santagula",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Paseo de la República",
+    "coordinates": {
+      "lat": -12.1000078,
+      "lon": -77.0260725
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4336241752",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4139553296-sarcletti",
+    "name": "Sarcletti",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1340574,
+      "lon": -77.0182283
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4139553296",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4186891630-sarcletti",
+    "name": "Sarcletti",
+    "neighborhood": "Lima",
+    "address": "Morelli 239",
+    "coordinates": {
+      "lat": -12.0905373,
+      "lon": -77.0038091
+    },
+    "openingHoursRaw": "Mo-Su 12:00 - 23:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "ice_cream",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4186891630",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4332677519-sarcletti",
+    "name": "Sarcletti",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Alfredo Benavides",
+    "coordinates": {
+      "lat": -12.1248132,
+      "lon": -77.0283158
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4332677519",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13570089222-savannah-cafe",
+    "name": "Savannah Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1255197,
+      "lon": -77.0307046
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13570089222",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4332534038-sebastian",
+    "name": "Sebastian",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Emilio Cavenecia 312",
+    "coordinates": {
+      "lat": -12.1080086,
+      "lon": -77.0390398
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4332534038",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-12107253037-shermman-coffee",
+    "name": "Shermman Coffee",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1204073,
+      "lon": -77.002689
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/12107253037",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11225296150-snowmass",
+    "name": "Snowmass",
+    "neighborhood": "Miraflores",
+    "address": "Calle La Florida 120",
+    "coordinates": {
+      "lat": -12.1024581,
+      "lon": -77.0315371
+    },
+    "openingHoursRaw": "Mo-Su 8:00-20:30",
+    "website": null,
+    "phone": "+51 989312406",
+    "cuisine": "coffee_shop;pancake",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/11225296150",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4264659693-sofa-cafe",
+    "name": "Sofá Café",
+    "neighborhood": "Barranco",
+    "address": "Avenida San Martin",
+    "coordinates": {
+      "lat": -12.1413883,
+      "lon": -77.0231407
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4264659693",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13566573411-sol-coffee-cafecito-here",
+    "name": "Sol Coffee - Cafecito Here",
+    "neighborhood": "Miraflores",
+    "address": "Calle Juan Fanning 529",
+    "coordinates": {
+      "lat": -12.1299008,
+      "lon": -77.0293435
+    },
+    "openingHoursRaw": "Mo-Fr 07:00-19:00; Sa-Su 07:00-15:00",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13566573411",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1425981816-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "San Isidro",
+    "address": "Calle Los Eucaliptos",
+    "coordinates": {
+      "lat": -12.0977657,
+      "lon": -77.048389
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1425981816",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1426631310-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Calle Las Begonias",
+    "coordinates": {
+      "lat": -12.0940594,
+      "lon": -77.0248649
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1426631310",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1427327606-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Diagonal",
+    "coordinates": {
+      "lat": -12.1209026,
+      "lon": -77.0303881
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1427327606",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1429969347-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.092943,
+      "lon": -77.047343
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1429969347",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1689177444-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Parque Sur 105",
+    "coordinates": {
+      "lat": -12.101805,
+      "lon": -77.0162673
+    },
+    "openingHoursRaw": "Su-Th 07:00-24:00, Fr-Sa 07:00-14:00",
+    "website": "http://www.starbucks.com.pe/",
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1689177444",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-1855119105-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1495893,
+      "lon": -77.0217489
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/1855119105",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-2294830546-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Calle Victor Maurtua 110",
+    "coordinates": {
+      "lat": -12.1070457,
+      "lon": -77.0402932
+    },
+    "openingHoursRaw": "Mo-Fr 07:00-23:00; Sa 07:00-22:00; Su 08:00-22:00",
+    "website": "http://starbucks.pe",
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/2294830546",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-3646789579-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida Gregorio Escobedo 382",
+    "coordinates": {
+      "lat": -12.0835506,
+      "lon": -77.0517054
+    },
+    "openingHoursRaw": "Mo-Su 07:00-23:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/3646789579",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4102705892-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "San Luis",
+    "coordinates": {
+      "lat": -12.0939532,
+      "lon": -76.9957957
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4102705892",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4264884801-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida 28 de Julio",
+    "coordinates": {
+      "lat": -12.1288872,
+      "lon": -77.0250174
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4264884801",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4341305397-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Dos de Mayo",
+    "coordinates": {
+      "lat": -12.0914445,
+      "lon": -77.0404277
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4341305397",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4346342173-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1209558,
+      "lon": -77.0108146
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4346342173",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4357727928-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Alfredo Benavides",
+    "coordinates": {
+      "lat": -12.1254152,
+      "lon": -77.025022
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4357727928",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4359115694-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1314059,
+      "lon": -77.0297025
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4359115694",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4359261892-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.129458,
+      "lon": -77.0224289
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4359261892",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4417000678-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Larco 632",
+    "coordinates": {
+      "lat": -12.1233247,
+      "lon": -77.0293932
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4417000678",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5131912082-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0892252,
+      "lon": -77.0046039
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5131912082",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6263701980-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1237083,
+      "lon": -77.0360671
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6263701980",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-6282802816-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.132151,
+      "lon": -77.0300855
+    },
+    "openingHoursRaw": "Mo-Su 11:00-22:00",
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/6282802816",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7561204030-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Los Conquistadores 536",
+    "coordinates": {
+      "lat": -12.1012931,
+      "lon": -77.0369789
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7561204030",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-7674306367-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Jirón Monterrey",
+    "coordinates": {
+      "lat": -12.1131084,
+      "lon": -76.9914898
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/7674306367",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9455939771-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Surquillo",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1106903,
+      "lon": -77.0019161
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9455939771",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13058728697-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0943569,
+      "lon": -77.0254053
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13058728697",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13570089218-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1224915,
+      "lon": -77.0289825
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13570089218",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769138-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0929603,
+      "lon": -77.0278015
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13584769138",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-14057307577-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Surquillo",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1121148,
+      "lon": -77.0115476
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/14057307577",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-434795522-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida Alfredo Benavides",
+    "coordinates": {
+      "lat": -12.1270853,
+      "lon": -77.01432
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/434795522",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435318177-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0970765,
+      "lon": -77.0209232
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435318177",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435327838-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1108502,
+      "lon": -77.0366284
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435327838",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-435682727-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Miraflores",
+    "address": "Avenida José Pardo 293",
+    "coordinates": {
+      "lat": -12.1193162,
+      "lon": -77.0317667
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/435682727",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436468538-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida Mariscal Ramón Castilla",
+    "coordinates": {
+      "lat": -12.1363107,
+      "lon": -77.0051625
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436468538",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-437364853-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida Aviación",
+    "coordinates": {
+      "lat": -12.0937549,
+      "lon": -77.0031611
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/437364853",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-437483158-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida Caminos del Inca",
+    "coordinates": {
+      "lat": -12.1153638,
+      "lon": -76.9913997
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/437483158",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-439763187-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": "Avenida de las Artes Norte",
+    "coordinates": {
+      "lat": -12.09077,
+      "lon": -77.0037506
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/439763187",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-1293737608-starbucks",
+    "name": "Starbucks",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1222397,
+      "lon": -76.9929138
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/1293737608",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4186906535-suspiro-cafe",
+    "name": "Suspiro Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Narciso de la Colina 320",
+    "coordinates": {
+      "lat": -12.1183807,
+      "lon": -77.0272637
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4186906535",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13577904937-takeat",
+    "name": "Takeat",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0918104,
+      "lon": -77.0246563
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13577904937",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13580621714-takeat",
+    "name": "Takeat",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0928003,
+      "lon": -77.0242793
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13580621714",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4768785921-tambo",
+    "name": "Tambo",
+    "neighborhood": "Lima",
+    "address": "Avenida Jose Pardo de Zela",
+    "coordinates": {
+      "lat": -12.082656,
+      "lon": -77.0275971
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4768785921",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4768785922-tambo",
+    "name": "Tambo",
+    "neighborhood": "Lima",
+    "address": "Avenida Agustín de la Rosa Toro",
+    "coordinates": {
+      "lat": -12.0813562,
+      "lon": -76.9933527
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4768785922",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13574733249-tazza",
+    "name": "Tazza",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0921931,
+      "lon": -77.0263106
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13574733249",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13570089223-the-coffee",
+    "name": "The Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1227327,
+      "lon": -77.0311239
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13570089223",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13584769127-the-coffee",
+    "name": "The Coffee",
+    "neighborhood": "San Isidro",
+    "address": null,
+    "coordinates": {
+      "lat": -12.0910103,
+      "lon": -77.035041
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": true,
+    "source": "https://www.openstreetmap.org/node/13584769127",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-way-436797781-the-coffee-road",
+    "name": "The Coffee Road",
+    "neighborhood": "San Isidro",
+    "address": "Avenida Guillermo Prescott",
+    "coordinates": {
+      "lat": -12.0885898,
+      "lon": -77.047915
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/way/436797781",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4702953792-tia-basi",
+    "name": "Tía Basi",
+    "neighborhood": "Miraflores",
+    "address": "Calle Cristobal Colón",
+    "coordinates": {
+      "lat": -12.1246372,
+      "lon": -77.0304435
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4702953792",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-3837840372-tortas-gaby",
+    "name": "Tortas Gaby",
+    "neighborhood": "Lima",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1388799,
+      "lon": -76.9990789
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "Postres_y_Cafe",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/3837840372",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5257951722-tostadora",
+    "name": "Tostadora",
+    "neighborhood": "Barranco",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1475575,
+      "lon": -77.0219111
+    },
+    "openingHoursRaw": "We-Sa 17:00-23:00; Su 16:00-22:30",
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5257951722",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11979611233-tostadores-cafe",
+    "name": "Tostadores Café",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1200173,
+      "lon": -77.0328846
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11979611233",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4990723077-tostadura-bisetti",
+    "name": "Tostadura Bisetti",
+    "neighborhood": "Barranco",
+    "address": "Avenida Pedro de Osma",
+    "coordinates": {
+      "lat": -12.1499489,
+      "lon": -77.0218737
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4990723077",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-5954814985-treff-miraflores-bar-aleman",
+    "name": "Treff Miraflores, Bar Alemán",
+    "neighborhood": "Miraflores",
+    "address": "Avenida Alfredo Benavides",
+    "coordinates": {
+      "lat": -12.1243015,
+      "lon": -77.0271797
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "german;hotdog;sausage",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/5954814985",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9951601505-tres-a",
+    "name": "Trés A",
+    "neighborhood": "Miraflores",
+    "address": "Calle Berlín 149",
+    "coordinates": {
+      "lat": -12.1222983,
+      "lon": -77.0317442
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9951601505",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4702953793-true-artisan-cafe",
+    "name": "True Artisan Cafe",
+    "neighborhood": "Miraflores",
+    "address": "Calle Bolívar 153",
+    "coordinates": {
+      "lat": -12.1254865,
+      "lon": -77.0285233
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4702953793",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-11984487596-tuquhba",
+    "name": "Tuquhba",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1041273,
+      "lon": -77.0321722
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/11984487596",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-13544521340-ursa-coffee-roasters",
+    "name": "Ursa Coffee Roasters",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.1212448,
+      "lon": -77.0276254
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/13544521340",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-4184923389-verde-bio-factoria-y-cafe-vegano",
+    "name": "Verdé, Bio-factoria y café vegano",
+    "neighborhood": "Miraflores",
+    "address": "Calle General Federico Recavarren 315",
+    "coordinates": {
+      "lat": -12.121516,
+      "lon": -77.033618
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": "coffee_shop",
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/4184923389",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  },
+  {
+    "id": "cafes-osm-node-9953796838-we-coffee",
+    "name": "We Coffee",
+    "neighborhood": "Miraflores",
+    "address": null,
+    "coordinates": {
+      "lat": -12.121535,
+      "lon": -77.0318018
+    },
+    "openingHoursRaw": null,
+    "website": null,
+    "phone": null,
+    "cuisine": null,
+    "outdoorSeating": false,
+    "source": "https://www.openstreetmap.org/node/9953796838",
+    "verified": false,
+    "description": {
+      "es": "",
+      "en": ""
+    },
+    "tags": []
+  }
+]
