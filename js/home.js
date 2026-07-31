@@ -5,10 +5,14 @@ import { tagPill, escapeHtml } from "./render-helpers.js";
 const cafesPreview = document.querySelector("[data-preview-cafes]");
 const foodPreview = document.querySelector("[data-preview-food]");
 const spotsPreview = document.querySelector("[data-preview-spots]");
+const sportPreview = document.querySelector("[data-preview-sport]");
+const eventsPreview = document.querySelector("[data-preview-events]");
 
 let cafes = [];
 let food = [];
 let spots = [];
+let sports = [];
+let events = [];
 
 function previewCard(item, lang) {
   return `
@@ -28,13 +32,17 @@ function render() {
   if (cafesPreview) cafesPreview.innerHTML = cafes.slice(0, 3).map((c) => previewCard(c, lang)).join("");
   if (foodPreview) foodPreview.innerHTML = food.slice(0, 3).map((f) => previewCard(f, lang)).join("");
   if (spotsPreview) spotsPreview.innerHTML = spots.slice(0, 3).map((s) => previewCard(s, lang)).join("");
+  if (sportPreview) sportPreview.innerHTML = sports.slice(0, 3).map((s) => previewCard(s, lang)).join("");
+  if (eventsPreview) eventsPreview.innerHTML = events.slice(0, 3).map((e) => previewCard(e, lang)).join("");
 }
 
 async function init() {
-  [cafes, food, spots] = await Promise.all([
+  [cafes, food, spots, sports, events] = await Promise.all([
     loadData("data/cafes.json"),
     loadData("data/food.json"),
-    loadData("data/spots.json")
+    loadData("data/spots.json"),
+    loadData("data/sports.json"),
+    loadData("data/events.json")
   ]);
   render();
 }

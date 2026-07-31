@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sport-circuito-playas",
+    "name": "Circuito de Playas (Costa Verde)",
+    "neighborhood": "Miraflores",
+    "type": "running",
+    "tags": ["running", "cycling", "free-entry"],
+    "description": {
+      "es": "El paseo/ciclovía sobre los acantilados que conecta Miraflores, Barranco y Chorrillos. La ruta más popular para correr o pedalear con vista al mar.",
+      "en": "The clifftop path and bike lane connecting Miraflores, Barranco, and Chorrillos. The most popular route in the city for a run or ride with ocean views."
+    },
+    "hours": { "es": "Abierto todo el día", "en": "Open all day" }
+  },
+  {
+    "id": "sport-makaha",
+    "name": "Makaha",
+    "neighborhood": "Miraflores",
+    "type": "surfing",
+    "tags": ["surfing", "board-rental", "beginner-friendly"],
+    "description": {
+      "es": "Rompiente icónica de Lima, suave y accesible para principiantes. Varias escuelas junto a la playa alquilan tablas y dan clases.",
+      "en": "One of Lima's iconic breaks, gentle enough for beginners. Several surf schools right on the beach rent boards and offer lessons."
+    },
+    "hours": { "es": "Mejor por la mañana", "en": "Best in the morning" }
+  },
+  {
+    "id": "sport-parque-kennedy",
+    "name": "Parque Kennedy",
+    "neighborhood": "Miraflores",
+    "type": "outdoor-fitness",
+    "tags": ["outdoor-fitness", "yoga", "free-entry"],
+    "description": {
+      "es": "Parque central de Miraflores con clases gratuitas de yoga, baile y ejercicio al aire libre organizadas por la municipalidad varias veces por semana.",
+      "en": "Miraflores' central park hosts free yoga, dance, and outdoor fitness classes organized by the municipality several times a week."
+    },
+    "hours": { "es": "Clases matutinas, según cronograma municipal", "en": "Morning classes, per the municipal schedule" }
+  },
+  {
+    "id": "sport-parque-el-olivar-run",
+    "name": "Parque El Olivar",
+    "neighborhood": "San Isidro",
+    "type": "running",
+    "tags": ["running", "shaded", "free-entry"],
+    "description": {
+      "es": "Circuito llano y con sombra entre olivos centenarios — una alternativa más tranquila al malecón para correr o caminar rápido.",
+      "en": "A flat, shaded loop among centuries-old olive trees — a calmer alternative to the boardwalk for a run or brisk walk."
+    },
+    "hours": { "es": "Abierto todo el día", "en": "Open all day" }
+  },
+  {
+    "id": "sport-padel-san-isidro",
+    "name": "Pádel en San Isidro / Miraflores",
+    "neighborhood": "San Isidro",
+    "type": "racquet-sports",
+    "tags": ["racquet-sports", "book-ahead"],
+    "description": {
+      "es": "El pádel está en auge en Lima y estos dos distritos concentran la mayoría de clubes. Las canchas se llenan rápido — reserva por app o Instagram del club con anticipación.",
+      "en": "Padel is booming in Lima, and these two districts have the highest concentration of clubs. Courts fill up fast — book through the club's app or Instagram ahead of time."
+    },
+    "hours": { "es": "Varía por club", "en": "Varies by club" }
+  },
+  {
+    "id": "sport-bicicletas-malecon",
+    "name": "Alquiler de bicicletas del Malecón",
+    "neighborhood": "Miraflores",
+    "type": "cycling",
+    "tags": ["cycling", "bike-rental"],
+    "description": {
+      "es": "Puestos de alquiler de bicicletas a lo largo del malecón, ideales para recorrer todo el Circuito de Playas sin traer tu propia bici.",
+      "en": "Bike rental kiosks along the boardwalk — the easiest way to cover the whole Circuito de Playas without bringing your own bike."
+    },
+    "hours": { "es": "Aprox. 9:00–18:00", "en": "Approx. 9am–6pm" }
+  }
+]

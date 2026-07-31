@@ -14,7 +14,9 @@ export const UI = {
     cafes: { es: "Cafés", en: "Cafés" },
     food: { es: "Comida", en: "Food" },
     spots: { es: "Lugares", en: "Spots" },
-    events: { es: "Eventos", en: "Events" }
+    sport: { es: "Deporte", en: "Sport" },
+    events: { es: "Eventos", en: "Events" },
+    guides: { es: "Guías", en: "Guides" }
   },
   home: {
     heroTitle: { es: "Lima, tal como la recomendamos", en: "Lima, the way we'd recommend it" },
@@ -30,6 +32,10 @@ export const UI = {
     sectionFoodSubtitle: { es: "Sitios que frecuentan los limeños, no las guías turísticas.", en: "Places locals actually go, not the tour guides." },
     sectionSpotsTitle: { es: "Rincones y atardeceres", en: "Corners and sunsets" },
     sectionSpotsSubtitle: { es: "Diseño, arquitectura y vistas que vale la pena buscar.", en: "Design, architecture, and views worth seeking out." },
+    sectionSportTitle: { es: "Moverse en Lima", en: "Get moving in Lima" },
+    sectionSportSubtitle: { es: "Correr, surfear y entrenar al aire libre.", en: "Running, surfing, and training outdoors." },
+    sectionEventsTitle: { es: "Próximos encuentros", en: "Upcoming meetups" },
+    sectionEventsSubtitle: { es: "Ferias, fiestas y encuentros de expats.", en: "Markets, parties, and expat meetups." },
     viewAll: { es: "Ver todo", en: "View all" }
   },
   filters: {
@@ -48,7 +54,8 @@ export const UI = {
     hours: { es: "Horario", en: "Hours" },
     bestTime: { es: "Mejor momento", en: "Best time" },
     recommendedFor: { es: "Ideal para", en: "Good for" },
-    cuisine: { es: "Cocina", en: "Cuisine" }
+    cuisine: { es: "Cocina", en: "Cuisine" },
+    frequency: { es: "Frecuencia", en: "Frequency" }
   },
   quietLevels: {
     low: { es: "Baja", en: "Low" },
@@ -57,11 +64,36 @@ export const UI = {
   },
   events: {
     title: { es: "Eventos y encuentros", en: "Events & meetups" },
-    subtitle: { es: "Muy pronto", en: "Coming soon" },
-    body: {
-      es: "Estamos preparando una sección con ferias, mercados, festivales y encuentros locales en Lima. Vuelve pronto.",
-      en: "We're building out a section for markets, festivals, and local meetups in Lima. Check back soon."
+    subtitle: {
+      es: "Ferias, fiestas y encuentros de expats en Lima.",
+      en: "Markets, parties, and expat meetups around Lima."
+    },
+    disclaimer: {
+      es: "Datos de muestra recopilados por la comunidad — verifica fechas y horarios antes de ir.",
+      en: "Community-sourced sample data — verify dates and times before you go."
+    },
+    submitCta: { es: "¿Conoces un evento? Sugiérelo", en: "Know an event? Suggest it" }
+  },
+  sport: {
+    title: { es: "Moverse en Lima", en: "Get moving in Lima" },
+    subtitle: {
+      es: "Correr, surfear, entrenar al aire libre y encontrar tu club.",
+      en: "Running, surfing, training outdoors, and finding your club."
     }
+  },
+  guides: {
+    title: { es: "Guías prácticas", en: "Practical guides" },
+    subtitle: {
+      es: "Lo básico para instalarte en Lima sin sorpresas.",
+      en: "The essentials for settling into Lima without surprises."
+    },
+    disclaimer: {
+      es: "Punto de partida general, no asesoría oficial — confirma siempre la información vigente.",
+      en: "A general starting point, not official advice — always confirm current information."
+    },
+    esimTitle: { es: "SIM y datos móviles", en: "SIM & mobile data" },
+    safetyTitle: { es: "Seguridad y normas básicas", en: "Safety & ground rules" },
+    taxiTitle: { es: "Cómo moverte: taxis y apps", en: "Getting around: taxis & apps" }
   },
   footer: {
     made: { es: "Hecho con cariño para Lima.", en: "Made with care for Lima." },
@@ -119,7 +151,33 @@ export const TAGS = {
   "street-art": { es: "Arte urbano", en: "Street art" },
   "walk": { es: "Paseo", en: "Walk" },
   "quiet": { es: "Tranquilo", en: "Quiet" },
-  "nature": { es: "Naturaleza", en: "Nature" }
+  "nature": { es: "Naturaleza", en: "Nature" },
+  // sport
+  "running": { es: "Running", en: "Running" },
+  "cycling": { es: "Ciclismo", en: "Cycling" },
+  "surfing": { es: "Surf", en: "Surfing" },
+  "board-rental": { es: "Alquiler de tablas", en: "Board rental" },
+  "beginner-friendly": { es: "Apto para principiantes", en: "Beginner-friendly" },
+  "outdoor-fitness": { es: "Fitness al aire libre", en: "Outdoor fitness" },
+  "yoga": { es: "Yoga", en: "Yoga" },
+  "free-entry": { es: "Entrada libre", en: "Free entry" },
+  "shaded": { es: "Con sombra", en: "Shaded" },
+  "racquet-sports": { es: "Deportes de raqueta", en: "Racquet sports" },
+  "book-ahead": { es: "Reserva con anticipación", en: "Book ahead" },
+  "bike-rental": { es: "Alquiler de bicicletas", en: "Bike rental" },
+  // events
+  "weekly": { es: "Semanal", en: "Weekly" },
+  "monthly": { es: "Mensual", en: "Monthly" },
+  "seasonal": { es: "Según temporada", en: "Seasonal" },
+  "organic-produce": { es: "Productos orgánicos", en: "Organic produce" },
+  "crafts": { es: "Artesanía", en: "Crafts" },
+  "live-music": { es: "Música en vivo", en: "Live music" },
+  "outdoor": { es: "Al aire libre", en: "Outdoor" },
+  "language-exchange": { es: "Intercambio de idiomas", en: "Language exchange" },
+  "networking": { es: "Networking", en: "Networking" },
+  "newcomers-welcome": { es: "Ideal para recién llegados", en: "Great for newcomers" },
+  "dancing": { es: "Baile", en: "Dancing" },
+  "rooftop": { es: "Terraza / rooftop", en: "Rooftop" }
 };
 
 export const CUISINES = {
@@ -137,6 +195,21 @@ export const SPOT_TYPES = {
   "design": { es: "Diseño", en: "Design" },
   "hidden-gem": { es: "Lugar escondido", en: "Hidden gem" },
   "quiet": { es: "Tranquilo", en: "Quiet" }
+};
+
+export const SPORT_TYPES = {
+  "running": { es: "Running", en: "Running" },
+  "surfing": { es: "Surf", en: "Surfing" },
+  "outdoor-fitness": { es: "Fitness al aire libre", en: "Outdoor fitness" },
+  "racquet-sports": { es: "Deportes de raqueta", en: "Racquet sports" },
+  "cycling": { es: "Ciclismo", en: "Cycling" }
+};
+
+export const EVENT_TYPES = {
+  "market": { es: "Feria / mercado", en: "Market" },
+  "festival": { es: "Festival", en: "Festival" },
+  "party": { es: "Fiesta", en: "Party" },
+  "meetup": { es: "Encuentro de expats", en: "Expat meetup" }
 };
 
 const STORAGE_KEY = "lima:lang";
@@ -168,4 +241,12 @@ export function cuisine(key, lang = getLang()) {
 
 export function spotType(key, lang = getLang()) {
   return t(SPOT_TYPES[key], lang) || key;
+}
+
+export function sportType(key, lang = getLang()) {
+  return t(SPORT_TYPES[key], lang) || key;
+}
+
+export function eventType(key, lang = getLang()) {
+  return t(EVENT_TYPES[key], lang) || key;
 }

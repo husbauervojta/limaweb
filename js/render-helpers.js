@@ -21,9 +21,8 @@ export function neighborhoods(items) {
   return [...new Set(items.map((i) => i.neighborhood))].sort();
 }
 
-export function buildNeighborhoodFilter(container, items, onChange) {
+function buildPillFilter(container, options, onChange) {
   const lang = getLang();
-  const options = neighborhoods(items);
   container.innerHTML = "";
 
   const allBtn = document.createElement("button");
@@ -33,12 +32,12 @@ export function buildNeighborhoodFilter(container, items, onChange) {
   allBtn.textContent = t(UI.filters.all, lang);
   container.appendChild(allBtn);
 
-  options.forEach((n) => {
+  options.forEach(({ value, label }) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.dataset.value = n;
+    btn.dataset.value = value;
     btn.className = "filter-pill";
-    btn.textContent = n;
+    btn.textContent = label;
     container.appendChild(btn);
   });
 
@@ -49,6 +48,16 @@ export function buildNeighborhoodFilter(container, items, onChange) {
       onChange(btn.dataset.value);
     });
   });
+}
+
+export function buildNeighborhoodFilter(container, items, onChange) {
+  const options = neighborhoods(items).map((n) => ({ value: n, label: n }));
+  buildPillFilter(container, options, onChange);
+}
+
+export function buildTypeFilter(container, types, labelFn, onChange, lang = getLang()) {
+  const options = types.map((value) => ({ value, label: labelFn(value, lang) }));
+  buildPillFilter(container, options, onChange);
 }
 
 export function emptyState(container, lang = getLang()) {

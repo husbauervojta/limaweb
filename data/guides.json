@@ -1,0 +1,85 @@
+{
+  "esim": [
+    {
+      "title": { "es": "SIM física en el aeropuerto", "en": "Physical SIM at the airport" },
+      "body": {
+        "es": "Los cuatro operadores principales son Claro, Movistar, Entel y Bitel. Hay módulos de todos en el aeropuerto Jorge Chávez con planes turísticos listos para activar. Necesitarás tu pasaporte para el registro.",
+        "en": "The four main carriers are Claro, Movistar, Entel, and Bitel. All of them have kiosks at Jorge Chávez airport with ready-to-activate tourist plans. You'll need your passport to register."
+      }
+    },
+    {
+      "title": { "es": "eSIM antes de aterrizar", "en": "eSIM before you land" },
+      "body": {
+        "es": "Proveedores internacionales de eSIM (Holafly, Airalo, Saily) te dan datos desde el momento en que aterrizas, útil para el primer día antes de conseguir un número local.",
+        "en": "International eSIM providers (Holafly, Airalo, Saily) get you data the moment you land — handy for day one before you sort out a local number."
+      }
+    },
+    {
+      "title": { "es": "¿Por qué un número local también?", "en": "Why also get a local number?" },
+      "body": {
+        "es": "Muchas apps peruanas (delivery, bancos, verificación de WhatsApp Business) piden un número local con SIM peruana, no solo datos de eSIM. Vale la pena tener ambos.",
+        "en": "Many Peruvian apps (delivery, banking, WhatsApp Business verification) require a local Peruvian number, not just eSIM data. Worth having both."
+      }
+    }
+  ],
+  "safety": [
+    {
+      "title": { "es": "Números de emergencia", "en": "Emergency numbers" },
+      "body": {
+        "es": "105 — Policía Nacional. 116 — Bomberos. Guarda ambos en tu teléfono al llegar.",
+        "en": "105 — National Police. 116 — Fire department. Save both in your phone when you arrive."
+      }
+    },
+    {
+      "title": { "es": "Bajo perfil en la calle", "en": "Keep a low profile" },
+      "body": {
+        "es": "Evita tener el celular o joyas a la vista en zonas concurridas o transporte público, especialmente en el centro histórico. Es la misma precaución básica que en cualquier gran capital latinoamericana.",
+        "en": "Avoid flashing your phone or jewelry in crowded areas or public transport, especially downtown. Same basic precaution as in any major Latin American capital."
+      }
+    },
+    {
+      "title": { "es": "Agua embotellada", "en": "Bottled water" },
+      "body": {
+        "es": "No se recomienda beber agua del grifo directamente. La mayoría usa agua embotellada o filtrada, incluso los limeños.",
+        "en": "Tap water isn't recommended straight from the faucet. Most people, including locals, use bottled or filtered water."
+      }
+    },
+    {
+      "title": { "es": "Zona sísmica", "en": "Earthquake zone" },
+      "body": {
+        "es": "Perú tiene actividad sísmica frecuente. Identifica la salida y el punto de encuentro seguro de tu edificio al mudarte.",
+        "en": "Peru has frequent seismic activity. Identify your building's exit and safe meeting point when you move in."
+      }
+    }
+  ],
+  "taxi": [
+    {
+      "title": { "es": "Usa apps, no pares taxis en la calle", "en": "Use apps, don't hail on the street" },
+      "body": {
+        "es": "Uber, Cabify, InDriver y Didi son las apps más usadas en Lima. Son más seguras y predecibles que parar un taxi informal en la calle, sobre todo de noche.",
+        "en": "Uber, Cabify, InDriver, and Didi are the most-used apps in Lima. They're safer and more predictable than flagging down an informal street taxi, especially at night."
+      }
+    },
+    {
+      "title": { "es": "Confirma la placa", "en": "Confirm the plate" },
+      "body": {
+        "es": "Antes de subir, verifica que la placa del auto coincida con la que muestra la app.",
+        "en": "Before getting in, check that the car's license plate matches what the app shows you."
+      }
+    },
+    {
+      "title": { "es": "Planifica el tráfico", "en": "Plan around traffic" },
+      "body": {
+        "es": "El tráfico de Lima es denso en horas punta (7:00–9:00 y 18:00–20:00). Un trayecto de 20 minutos puede convertirse fácilmente en 45.",
+        "en": "Lima traffic is heavy during rush hour (7–9am and 6–8pm). A 20-minute trip can easily turn into 45."
+      }
+    },
+    {
+      "title": { "es": "Viajes entre ciudades", "en": "Intercity travel" },
+      "body": {
+        "es": "Para salir de Lima por tierra, usa compañías de bus establecidas (Cruz del Sur, Oltursa) en vez de opciones informales.",
+        "en": "For overland trips out of Lima, use established bus companies (Cruz del Sur, Oltursa) rather than informal options."
+      }
+    }
+  ]
+}

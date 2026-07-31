@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Rincones y atardeceres — Lima.</title>
-  <meta name="description" content="Diseño, arquitectura, atardeceres y lugares escondidos de Lima que vale la pena buscar." />
+  <title>Moverse en Lima — Lima.</title>
+  <meta name="description" content="Correr, surfear, entrenar al aire libre y encontrar tu club en Lima." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -21,8 +21,8 @@
         <a href="index.html" class="nav-link" data-i18n="nav.home">Inicio</a>
         <a href="cafes.html" class="nav-link" data-i18n="nav.cafes">Cafés</a>
         <a href="food.html" class="nav-link" data-i18n="nav.food">Comida</a>
-        <a href="spots.html" class="nav-link text-clay-600" data-i18n="nav.spots">Lugares</a>
-        <a href="sport.html" class="nav-link" data-i18n="nav.sport">Deporte</a>
+        <a href="spots.html" class="nav-link" data-i18n="nav.spots">Lugares</a>
+        <a href="sport.html" class="nav-link text-clay-600" data-i18n="nav.sport">Deporte</a>
         <a href="events.html" class="nav-link" data-i18n="nav.events">Eventos</a>
         <a href="guides.html" class="nav-link" data-i18n="nav.guides">Guías</a>
       </nav>
@@ -49,14 +49,14 @@
 
   <main id="main">
     <section class="mx-auto max-w-6xl px-4 pb-6 pt-12 sm:px-6">
-      <h1 class="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl" data-i18n="home.sectionSpotsTitle">Rincones y atardeceres</h1>
-      <p class="mt-2 max-w-xl text-stone-600" data-i18n="home.sectionSpotsSubtitle">Diseño, arquitectura y vistas que vale la pena buscar.</p>
+      <h1 class="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl" data-i18n="sport.title">Moverse en Lima</h1>
+      <p class="mt-2 max-w-xl text-stone-600" data-i18n="sport.subtitle">Correr, surfear, entrenar al aire libre y encontrar tu club.</p>
 
       <div class="mt-6 flex flex-wrap gap-2" data-neighborhood-filter></div>
     </section>
 
     <section class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
-      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3" data-spot-grid></div>
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3" data-sport-grid></div>
     </section>
   </main>
 
@@ -68,6 +68,6 @@
   </footer>
 
   <script type="module" src="js/app.js"></script>
-  <script type="module" src="js/spots.js"></script>
+  <script type="module" src="js/sport.js"></script>
 </body>
 </html>

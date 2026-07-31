@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "event-bioferia-miraflores",
+    "name": "Bioferia orgánica",
+    "neighborhood": "Miraflores",
+    "type": "market",
+    "tags": ["weekly", "organic-produce", "outdoor"],
+    "frequency": { "es": "Sábados por la mañana", "en": "Saturday mornings" },
+    "description": {
+      "es": "Mercado de productores con frutas, verduras y productos orgánicos locales. Formato clásico de feria de fin de semana en varios parques de Lima — confirma la sede vigente antes de ir.",
+      "en": "A producers' market with local fruit, vegetables, and organic goods. A classic weekend-market format that rotates between a few Lima parks — confirm the current location before heading over."
+    }
+  },
+  {
+    "id": "event-feria-parque-kennedy",
+    "name": "Feria de artesanía — Parque Kennedy",
+    "neighborhood": "Miraflores",
+    "type": "market",
+    "tags": ["weekly", "crafts", "outdoor"],
+    "frequency": { "es": "Todas las noches", "en": "Every evening" },
+    "description": {
+      "es": "Feria de artesanía y pintura al aire libre en el parque más conocido de Miraflores, junto a los gatos residentes. Ambiente relajado, buena para una primera salida nocturna.",
+      "en": "An open-air crafts and painting market in Miraflores' best-known park, alongside its resident cats. Low-key atmosphere, good for a first evening out."
+    }
+  },
+  {
+    "id": "event-festivales-gastronomicos",
+    "name": "Festivales gastronómicos de temporada",
+    "neighborhood": "Lima",
+    "type": "festival",
+    "tags": ["seasonal", "live-music", "outdoor"],
+    "frequency": { "es": "Según temporada", "en": "Seasonal" },
+    "description": {
+      "es": "Lima organiza festivales de comida y bebida a lo largo del año (ferias de cerveza artesanal, festivales de anticuchos, chocolate, pisco). Revisa carteleras locales para fechas actuales.",
+      "en": "Lima runs food and drink festivals throughout the year (craft beer fairs, anticucho festivals, chocolate, pisco). Check local listings for current dates."
+    }
+  },
+  {
+    "id": "event-rooftop-barranco",
+    "name": "Fiestas rooftop en Barranco",
+    "neighborhood": "Barranco",
+    "type": "party",
+    "tags": ["rooftop", "dancing", "live-music"],
+    "frequency": { "es": "Viernes y sábados por la noche", "en": "Friday and Saturday nights" },
+    "description": {
+      "es": "Barranco concentra la mayor densidad de bares y terrazas con música en vivo o DJ de la ciudad. Buena zona para caminar entre locales sin plan fijo.",
+      "en": "Barranco has the city's highest concentration of bars and rooftop terraces with live music or DJs. A good area to bar-hop without a fixed plan."
+    }
+  },
+  {
+    "id": "event-internations-lima",
+    "name": "Encuentros InterNations Lima",
+    "neighborhood": "Miraflores",
+    "type": "meetup",
+    "tags": ["monthly", "networking", "newcomers-welcome"],
+    "frequency": { "es": "Mensual", "en": "Monthly" },
+    "description": {
+      "es": "Capítulo local de la red internacional InterNations — encuentros mensuales para expats recién llegados. Requiere registro previo en su plataforma.",
+      "en": "Local chapter of the global InterNations network — monthly meetups aimed at newly arrived expats. Requires sign-up on their platform beforehand."
+    }
+  },
+  {
+    "id": "event-intercambio-idiomas",
+    "name": "Intercambio de idiomas en cafés",
+    "neighborhood": "Barranco",
+    "type": "meetup",
+    "tags": ["weekly", "language-exchange", "newcomers-welcome"],
+    "frequency": { "es": "Semanal", "en": "Weekly" },
+    "description": {
+      "es": "Grupos informales de intercambio español-inglés que rotan entre cafés de Barranco y Miraflores. Búscalos en Meetup o grupos de Facebook de expats en Lima.",
+      "en": "Informal Spanish-English exchange groups that rotate between cafés in Barranco and Miraflores. Find them on Meetup or Lima expat Facebook groups."
+    }
+  }
+]
