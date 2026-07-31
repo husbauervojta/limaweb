@@ -1,0 +1,74 @@
+[
+  {
+    "id": "spot-malecon-barranco",
+    "name": "Malecón de Barranco",
+    "neighborhood": "Barranco",
+    "type": "sunset",
+    "tags": ["sunset", "walk", "free"],
+    "description": {
+      "es": "El malecón con el mejor atardecer de Lima, con menos turistas que Miraflores. Llega 30 minutos antes para conseguir sitio.",
+      "en": "The best sunset boardwalk in Lima, with fewer crowds than Miraflores. Arrive 30 minutes early to grab a bench."
+    },
+    "bestTime": { "es": "17:15–18:15", "en": "5:15–6:15 pm" }
+  },
+  {
+    "id": "spot-puente-suspiros",
+    "name": "Puente de los Suspiros",
+    "neighborhood": "Barranco",
+    "type": "architecture",
+    "tags": ["hidden-gem", "architecture", "romantic"],
+    "description": {
+      "es": "Puente de madera escondido entre buganvillas. Casi vacío al caer la tarde.",
+      "en": "A wooden bridge tucked away among bougainvillea. Nearly empty at dusk."
+    },
+    "bestTime": { "es": "cualquier hora, ideal al atardecer", "en": "anytime, best at dusk" }
+  },
+  {
+    "id": "spot-mate",
+    "name": "MATE — Museo Mario Testino",
+    "neighborhood": "Barranco",
+    "type": "design",
+    "tags": ["design", "gallery", "architecture"],
+    "description": {
+      "es": "Galería en una casona republicana restaurada — un espacio minimalista para amantes del diseño y la fotografía.",
+      "en": "A gallery in a restored republican-era mansion — a clean, minimalist space for design and photography lovers."
+    },
+    "bestTime": { "es": "por la tarde", "en": "afternoon" }
+  },
+  {
+    "id": "spot-costa-verde-miradores",
+    "name": "Miradores Costa Verde",
+    "neighborhood": "Miraflores",
+    "type": "sunset",
+    "tags": ["sunset", "ocean-view", "paragliding"],
+    "description": {
+      "es": "Una cadena de miradores sobre los acantilados — observa a surfistas y parapentistas durante el atardecer.",
+      "en": "A chain of clifftop lookouts — watch surfers and paragliders during sunset."
+    },
+    "bestTime": { "es": "17:00–18:30", "en": "5:00–6:30 pm" }
+  },
+  {
+    "id": "spot-barranco-street-art",
+    "name": "Street art en Barranco",
+    "neighborhood": "Barranco",
+    "type": "hidden-gem",
+    "tags": ["street-art", "walk", "free"],
+    "description": {
+      "es": "Callejones alrededor del Pasaje Grau llenos de murales — escondidos incluso para parte de los limeños.",
+      "en": "Side streets around Pasaje Grau full of murals — hidden even from many locals."
+    },
+    "bestTime": { "es": "de día", "en": "daylight hours" }
+  },
+  {
+    "id": "spot-parque-el-olivar",
+    "name": "Parque El Olivar",
+    "neighborhood": "San Isidro",
+    "type": "quiet",
+    "tags": ["quiet", "nature", "free"],
+    "description": {
+      "es": "Un olivar centenario en pleno centro de la ciudad — ideal para pasear o leer lejos del ruido.",
+      "en": "A centuries-old olive grove in the middle of the city — ideal for a quiet walk or reading away from the noise."
+    },
+    "bestTime": { "es": "mañana o última hora de la tarde", "en": "morning or late afternoon" }
+  }
+]

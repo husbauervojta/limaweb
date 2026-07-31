@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rincones y atardeceres — Lima.</title>
+  <meta name="description" content="Diseño, arquitectura, atardeceres y lugares escondidos de Lima que vale la pena buscar." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="min-h-screen bg-stone-50">
+  <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-stone-900 focus:px-4 focus:py-2 focus:text-white">Skip to content</a>
+
+  <header class="sticky top-0 z-40 border-b border-stone-200 bg-stone-50/90 backdrop-blur">
+    <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6">
+      <a href="index.html" class="text-lg font-semibold tracking-tight text-stone-900" data-i18n="brand">Lima.</a>
+      <nav class="hidden items-center gap-6 sm:flex">
+        <a href="index.html" class="nav-link" data-i18n="nav.home">Inicio</a>
+        <a href="cafes.html" class="nav-link" data-i18n="nav.cafes">Cafés</a>
+        <a href="food.html" class="nav-link" data-i18n="nav.food">Comida</a>
+        <a href="spots.html" class="nav-link text-clay-600" data-i18n="nav.spots">Lugares</a>
+        <a href="events.html" class="nav-link" data-i18n="nav.events">Eventos</a>
+      </nav>
+      <div class="flex items-center gap-3">
+        <div class="flex items-center gap-1 rounded-full border border-stone-200 p-0.5">
+          <button type="button" class="lang-btn" data-lang-option="es">ES</button>
+          <button type="button" class="lang-btn" data-lang-option="en">EN</button>
+        </div>
+        <button type="button" class="rounded-full border border-stone-200 p-2 sm:hidden" data-nav-toggle aria-expanded="false" aria-label="Menu">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18" /></svg>
+        </button>
+      </div>
+    </div>
+    <nav data-nav-menu class="hidden flex-col gap-1 border-t border-stone-200 px-4 py-3 sm:hidden">
+      <a href="index.html" class="nav-link py-2" data-i18n="nav.home">Inicio</a>
+      <a href="cafes.html" class="nav-link py-2" data-i18n="nav.cafes">Cafés</a>
+      <a href="food.html" class="nav-link py-2" data-i18n="nav.food">Comida</a>
+      <a href="spots.html" class="nav-link py-2" data-i18n="nav.spots">Lugares</a>
+      <a href="events.html" class="nav-link py-2" data-i18n="nav.events">Eventos</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="mx-auto max-w-6xl px-4 pb-6 pt-12 sm:px-6">
+      <h1 class="text-3xl font-semibold tracking-tight text-stone-900 sm:text-4xl" data-i18n="home.sectionSpotsTitle">Rincones y atardeceres</h1>
+      <p class="mt-2 max-w-xl text-stone-600" data-i18n="home.sectionSpotsSubtitle">Diseño, arquitectura y vistas que vale la pena buscar.</p>
+
+      <div class="mt-6 flex flex-wrap gap-2" data-neighborhood-filter></div>
+    </section>
+
+    <section class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+      <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3" data-spot-grid></div>
+    </section>
+  </main>
+
+  <footer class="mt-12 border-t border-stone-200">
+    <div class="mx-auto max-w-6xl px-4 py-10 text-center text-sm text-stone-500 sm:px-6">
+      <p data-i18n="footer.made">Hecho con cariño para Lima.</p>
+      <p class="mt-1 text-xs text-stone-400" data-i18n="footer.dataNote">Datos abiertos en formato JSON.</p>
+    </div>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/spots.js"></script>
+</body>
+</html>

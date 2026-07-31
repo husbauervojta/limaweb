@@ -1,0 +1,80 @@
+[
+  {
+    "id": "food-canta-rana",
+    "name": "Canta Rana",
+    "neighborhood": "Barranco",
+    "cuisine": "cevicheria",
+    "priceLevel": "$$",
+    "tags": ["local-classic", "no-reservation-queue", "family-run"],
+    "description": {
+      "es": "Cevichería legendaria con las paredes cubiertas de fotos y clientes de siempre. No es una trampa turística: aquí come la gente local.",
+      "en": "Legendary cevichería with walls covered in photos and regulars who never miss a week. Not a tourist trap — locals eat here."
+    },
+    "hours": { "es": "Lun–Sáb 12:00–17:00", "en": "Mon–Sat 12:00–17:00" }
+  },
+  {
+    "id": "food-isolina",
+    "name": "Isolina Taberna",
+    "neighborhood": "Barranco",
+    "cuisine": "traditional-peruvian",
+    "priceLevel": "$$$",
+    "tags": ["share-plates", "reservation-recommended", "authentic"],
+    "description": {
+      "es": "Un regreso a la cocina limeña de las abuelas: porciones enormes pensadas para compartir. Reserva con anticipación.",
+      "en": "A return to old-school Lima home cooking — enormous portions meant for sharing. Reserve ahead."
+    },
+    "hours": { "es": "Mar–Dom 12:30–16:00, 19:30–23:00", "en": "Tue–Sun 12:30–16:00, 19:30–23:00" }
+  },
+  {
+    "id": "food-panchita",
+    "name": "Panchita",
+    "neighborhood": "Miraflores",
+    "cuisine": "anticucheria-grill",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "great-portions"],
+    "description": {
+      "es": "Del mismo equipo que Astrid&Gastón, pero sin los precios turísticos — especialidades a la parrilla y anticuchos.",
+      "en": "From the same team as Astrid&Gastón, without the tourist prices — grilled specialties and anticuchos."
+    },
+    "hours": { "es": "Lun–Dom 12:00–23:00", "en": "Mon–Sun 12:00–23:00" }
+  },
+  {
+    "id": "food-el-mercado",
+    "name": "El Mercado",
+    "neighborhood": "Miraflores",
+    "cuisine": "seafood",
+    "priceLevel": "$$$",
+    "tags": ["fresh-fish", "open-kitchen"],
+    "description": {
+      "es": "Ambiente de mercado abierto, pescado y mariscos frescos según lo que llegue del día.",
+      "en": "Open, market-style setting with fresh fish and seafood depending on the day's catch."
+    },
+    "hours": { "es": "Lun–Dom 12:00–17:00", "en": "Mon–Sun 12:00–17:00" }
+  },
+  {
+    "id": "food-mercado-surquillo",
+    "name": "Mercado de Surquillo No. 1",
+    "neighborhood": "Surquillo",
+    "cuisine": "market-street-food",
+    "priceLevel": "$",
+    "tags": ["local-market", "cheap", "authentic"],
+    "description": {
+      "es": "Un mercado local de verdad entre Miraflores y Surquillo — fruta, pescado y puestos de comida a precios locales.",
+      "en": "A genuine local market between Miraflores and Surquillo — fruit, fish, and food stalls at local prices."
+    },
+    "hours": { "es": "Lun–Dom 6:00–16:00", "en": "Mon–Sun 6:00–16:00" }
+  },
+  {
+    "id": "food-huaca-pucllana",
+    "name": "Restaurante Huaca Pucllana",
+    "neighborhood": "Miraflores",
+    "cuisine": "novoandina",
+    "priceLevel": "$$$$",
+    "tags": ["special-occasion", "ruins-view", "reservation-required"],
+    "description": {
+      "es": "Cena con vista a las ruinas preincaicas iluminadas. Precio elevado, pero pensado para una ocasión especial.",
+      "en": "Dinner overlooking illuminated pre-Inca ruins. Pricier, but built for a special occasion."
+    },
+    "hours": { "es": "Lun–Dom 12:15–24:00", "en": "Mon–Sun 12:15–24:00" }
+  }
+]

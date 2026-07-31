@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cafe-tostaduria-bisetti",
+    "name": "Tostaduría Bisetti",
+    "neighborhood": "Barranco",
+    "tags": ["fast-wifi", "quiet-morning", "roastery", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "first-meeting"],
+    "description": {
+      "es": "Tostaduría histórica con ambiente industrial. Tranquila por las mañanas con wifi confiable; más animada por la tarde.",
+      "en": "Historic coffee roastery with an industrial feel. Calm mornings with reliable wifi; busier in the afternoon."
+    },
+    "hours": { "es": "Lun–Dom 8:00–20:00", "en": "Mon–Sun 8:00–20:00" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-dulce-amanecer",
+    "name": "Dulce Amanecer",
+    "neighborhood": "Miraflores",
+    "tags": ["fast-wifi", "quiet-morning", "outdoor-terrace", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "high",
+    "workFriendly": true,
+    "recommendedFor": ["work", "all-day"],
+    "description": {
+      "es": "Café tranquilo cerca del Malecón, con terraza acristalada y vista al verde. Ideal para trabajar todo el día.",
+      "en": "Quiet café near the Malecón with a glassed-in terrace overlooking greenery. Ideal for a full day of work."
+    },
+    "hours": { "es": "Lun–Dom 7:00–21:00", "en": "Mon–Sun 7:00–21:00" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-siete-semillas",
+    "name": "Siete Semillas",
+    "neighborhood": "Barranco",
+    "tags": ["specialty-coffee", "quiet-morning", "minimalist-interior"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Pequeña cafetería de especialidad con un interior de estética escandinava. Excelente café, pocas mesas.",
+      "en": "Small specialty coffee shop with a Scandinavian-clean interior. Excellent coffee, limited seating."
+    },
+    "hours": { "es": "Mar–Dom 8:00–18:00", "en": "Tue–Sun 8:00–18:00" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-arabica",
+    "name": "Arábica Coffee Roasters",
+    "neighborhood": "San Isidro",
+    "tags": ["fast-wifi", "plugs", "business-friendly"],
+    "priceLevel": "$$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "business-meeting"],
+    "description": {
+      "es": "Café amplio en el distrito financiero de San Isidro, muchas mesas con enchufes, popular entre freelancers.",
+      "en": "Spacious café in the San Isidro business district, plenty of tables with outlets, popular with freelancers."
+    },
+    "hours": { "es": "Lun–Sáb 7:30–20:00", "en": "Mon–Sat 7:30–20:00" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-el-mirador",
+    "name": "El Mirador Café",
+    "neighborhood": "Barranco",
+    "tags": ["view", "quiet-morning", "outdoor-terrace"],
+    "priceLevel": "$$",
+    "quietLevel": "high",
+    "workFriendly": true,
+    "recommendedFor": ["work", "sunset-after-work"],
+    "description": {
+      "es": "Café sobre el acantilado con vista al océano. Tranquilo por la mañana para trabajar, ideal al atardecer.",
+      "en": "Clifftop café with ocean views. Calm in the morning for work, great for sunset afterwards."
+    },
+    "hours": { "es": "Lun–Dom 8:00–22:00", "en": "Mon–Sun 8:00–22:00" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-la-baguette",
+    "name": "La Baguette San Isidro",
+    "neighborhood": "San Isidro",
+    "tags": ["fast-wifi", "bakery", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["breakfast", "quick-work"],
+    "description": {
+      "es": "Panadería francesa con excelente repostería, pero suele estar llena y ruidosa — mejor para estancias cortas.",
+      "en": "French bakery-café with great pastries, but tends to be busy and loud — better for short stays."
+    },
+    "hours": { "es": "Lun–Dom 6:30–21:00", "en": "Mon–Sun 6:30–21:00" },
+    "mapsUrl": ""
+  }
+]

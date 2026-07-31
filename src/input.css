@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  --color-clay-50: #fdf4f0;
+  --color-clay-100: #fbe6dc;
+  --color-clay-200: #f5c7b3;
+  --color-clay-300: #eda583;
+  --color-clay-400: #e07f54;
+  --color-clay-500: #c1622d;
+  --color-clay-600: #a34f24;
+  --color-clay-700: #7f3c1b;
+  --color-clay-800: #5c2b14;
+  --color-clay-900: #3d1c0d;
+}
+
+@layer base {
+  body {
+    @apply bg-stone-50 font-sans text-stone-800 antialiased;
+  }
+}
+
+@layer components {
+  .filter-pill {
+    @apply rounded-full border border-stone-200 bg-white px-3.5 py-1.5 text-sm text-stone-600 transition hover:border-clay-300 hover:text-clay-700;
+  }
+  .filter-pill--active {
+    @apply border-clay-500 bg-clay-500 text-white hover:border-clay-500 hover:text-white;
+  }
+  .nav-link {
+    @apply text-sm font-medium text-stone-600 transition hover:text-clay-600;
+  }
+  .lang-btn {
+    @apply rounded-full px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-stone-500 transition hover:text-clay-600;
+  }
+  .lang-btn[aria-pressed="true"] {
+    @apply bg-stone-900 text-white hover:text-white;
+  }
+}
