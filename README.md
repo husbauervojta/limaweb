@@ -1,6 +1,6 @@
 # Lima.
 
-Guía curada de Lima, Perú — cafés para trabajar, comida sin trampas turísticas, y rincones de diseño y atardeceres. Bilingüe (ES/EN), sitio estático, sin frameworks.
+Guía curada de Lima, Perú, para expats y locales — cafés para trabajar, comida sin trampas turísticas, y rincones de diseño y atardeceres. Bilingüe (ES/EN), sitio estático, sin frameworks.
 
 ## Stack
 
