@@ -94,5 +94,325 @@
     },
     "hours": { "es": "Lun–Dom 6:30–21:00", "en": "Mon–Sun 6:30–21:00" },
     "mapsUrl": ""
+  },
+  {
+    "id": "cafe-pan-de-la-chola",
+    "name": "Pan de la Chola",
+    "neighborhood": "Miraflores",
+    "tags": ["bakery", "specialty-coffee", "fast-wifi"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["breakfast", "quick-work"],
+    "description": {
+      "es": "Panadería de masa madre muy conocida entre extranjeros y limeños. El pan es el protagonista — suele estar lleno, mejor para desayunar que para instalarte a trabajar.",
+      "en": "A well-known sourdough bakery among both expats and locals. The bread is the main event — usually busy, better for breakfast than settling in to work."
+    },
+    "hours": { "es": "Lun–Dom 7:00–22:00", "en": "Mon–Sun 7am–10pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-milimetrica",
+    "name": "Milimétrica Coffee Co",
+    "neighborhood": "Miraflores",
+    "tags": ["specialty-coffee", "quiet-morning", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Tostadora de especialidad con enfoque en el detalle de extracción. Mesas suficientes para abrir la laptop sin sentirte apurado.",
+      "en": "A specialty roaster focused on precise extraction. Enough tables to open your laptop without feeling rushed."
+    },
+    "hours": { "es": "Lun–Sáb 7:30–20:00; Dom 9:00–16:00", "en": "Mon–Sat 7:30am–8pm; Sun 9am–4pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-la-bodega-verde",
+    "name": "La Bodega Verde",
+    "neighborhood": "Barranco",
+    "tags": ["outdoor-terrace", "quiet-morning", "minimalist-interior"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Café-tienda de té con patio pequeño y ambiente relajado, unas cuadras del bullicio del Puente de los Suspiros.",
+      "en": "A café and tea shop with a small patio and a relaxed feel, a few blocks from the bustle of the Puente de los Suspiros."
+    },
+    "hours": { "es": "Lun–Dom 9:00–21:00", "en": "Mon–Sun 9am–9pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-neira-lab",
+    "name": "Neira Café Lab",
+    "neighborhood": "Miraflores",
+    "tags": ["specialty-coffee", "fast-wifi", "minimalist-interior"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "first-meeting"],
+    "description": {
+      "es": "Laboratorio de café de especialidad, ambiente minimalista y buena luz natural. Popular entre quienes trabajan remoto en la zona.",
+      "en": "A specialty coffee lab with a minimalist look and good natural light. Popular with remote workers in the area."
+    },
+    "hours": { "es": "Lun–Vie 7:00–21:00; Sáb 8:00–21:00; Dom 9:00–18:00", "en": "Mon–Fri 7am–9pm; Sat 8am–9pm; Sun 9am–6pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-arabica-espresso-bar",
+    "name": "Arabica Espresso Bar",
+    "neighborhood": "Miraflores",
+    "tags": ["specialty-coffee", "fast-wifi", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "quick-work"],
+    "description": {
+      "es": "Barra de espresso compacta con buen café de especialidad, cerca del Óvalo. Espacio reducido pero rápido para una sesión de trabajo corta.",
+      "en": "A compact espresso bar with solid specialty coffee near the Óvalo. Small space, but good for a short work session."
+    },
+    "hours": { "es": "Lun–Sáb 8:00–22:00; Dom 14:00–21:00", "en": "Mon–Sat 8am–10pm; Sun 2pm–9pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-milenaria",
+    "name": "Milenaria Café",
+    "neighborhood": "Miraflores",
+    "tags": ["fast-wifi", "quiet-morning", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "all-day"],
+    "description": {
+      "es": "Café de barrio tranquilo con buen servicio y mesas cómodas — menos conocido que las cadenas cercanas, por eso suele tener sitio.",
+      "en": "A quiet neighborhood café with good service and comfortable tables — less known than the chains nearby, so there's usually room."
+    },
+    "hours": { "es": "Lun–Sáb 8:00–21:00; Dom 8:00–19:00", "en": "Mon–Sat 8am–9pm; Sun 8am–7pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-agora-arte",
+    "name": "Ágora Café Arte",
+    "neighborhood": "Miraflores",
+    "tags": ["minimalist-interior", "quiet-morning"],
+    "priceLevel": "$$",
+    "quietLevel": "high",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Café con espacio cultural/galería anexo — ambiente tranquilo, bueno para quienes buscan algo más que una cafetería de paso.",
+      "en": "A café with an attached cultural space/gallery — a calm setting, good if you want more than a quick coffee stop."
+    },
+    "hours": { "es": "Lun–Vie 7:30–21:30", "en": "Mon–Fri 7:30am–9:30pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-teoria-6-cafes",
+    "name": "La Teoría de los 6 Cafés",
+    "neighborhood": "Miraflores",
+    "tags": ["specialty-coffee", "fast-wifi"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "first-meeting"],
+    "description": {
+      "es": "Cadena local de cafeterías con buen café y ambiente relajado — varias sedes en Miraflores, útil si necesitas una opción confiable cerca.",
+      "en": "A local café chain with solid coffee and a relaxed vibe — several branches in Miraflores, handy when you need a reliable option nearby."
+    },
+    "hours": { "es": "Lun–Dom 7:30–21:00", "en": "Mon–Sun 7:30am–9pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-choco-museo",
+    "name": "Choco Museo y Café",
+    "neighborhood": "Miraflores",
+    "tags": ["outdoor-terrace", "bakery"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["first-meeting", "breakfast"],
+    "description": {
+      "es": "Café ligado al museo del chocolate, con talleres y postres a base de cacao peruano. Ambiente turístico-amigable, no es el lugar para concentrarte.",
+      "en": "Café attached to the chocolate museum, with workshops and Peruvian cacao-based desserts. Tourist-friendly atmosphere, not the spot to focus."
+    },
+    "hours": { "es": "Lun–Dom 9:30–17:30", "en": "Mon–Sun 9:30am–5:30pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-sarcletti",
+    "name": "Sarcletti",
+    "neighborhood": "Miraflores",
+    "tags": ["bakery", "outdoor-terrace"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["breakfast", "first-meeting"],
+    "description": {
+      "es": "Heladería y café histórico de Lima, institución desde hace décadas. Va más por la nostalgia y los helados que por sentarte a trabajar.",
+      "en": "A historic Lima ice cream parlor and café, an institution for decades. It's about nostalgia and ice cream, not settling in to work."
+    },
+    "hours": { "es": "Lun–Dom 8:00–23:00", "en": "Mon–Sun 8am–11pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-nitido",
+    "name": "Nítido Coffee Co",
+    "neighborhood": "San Isidro",
+    "tags": ["specialty-coffee", "fast-wifi", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "business-meeting"],
+    "description": {
+      "es": "Café de especialidad en zona financiera de San Isidro, ambiente cuidado y buena opción para reuniones de trabajo cortas.",
+      "en": "Specialty coffee shop in San Isidro's financial district, well put-together and a good option for short work meetings."
+    },
+    "hours": { "es": "Lun–Sáb 7:00–21:00; Dom 12:30–20:30", "en": "Mon–Sat 7am–9pm; Sun 12:30pm–8:30pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-montcafe",
+    "name": "Montcafé",
+    "neighborhood": "San Isidro",
+    "tags": ["fast-wifi", "business-friendly", "plugs"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "business-meeting"],
+    "description": {
+      "es": "Café orientado a oficinistas de San Isidro — eficiente, buen café de exportación, útil entre reuniones.",
+      "en": "A café geared toward San Isidro office workers — efficient, good export-quality coffee, handy between meetings."
+    },
+    "hours": { "es": "Lun–Vie 7:30–21:30; Sáb 8:30–21:00", "en": "Mon–Fri 7:30am–9:30pm; Sat 8:30am–9pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-las-vecinas",
+    "name": "Las Vecinas",
+    "neighborhood": "Barranco",
+    "tags": ["outdoor-terrace", "minimalist-interior"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Café de barrio con ambiente hogareño, buena opción entre semana cuando Barranco está menos lleno.",
+      "en": "A neighborhood café with a homey feel — a good pick on weekdays when Barranco is less crowded."
+    },
+    "hours": { "es": "Mié–Lun 10:00–22:00", "en": "Wed–Mon 10am–10pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-sagrado",
+    "name": "Sagrado Café",
+    "neighborhood": "Barranco",
+    "tags": ["specialty-coffee", "quiet-morning"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Café pequeño y cuidado en una calle tranquila de Barranco, buena opción para una sesión de trabajo de un par de horas.",
+      "en": "A small, carefully run café on a quiet Barranco street — good for a couple of hours of work."
+    },
+    "hours": { "es": "Mar–Dom 9:30–20:00", "en": "Tue–Sun 9:30am–8pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-puku-puku-larco",
+    "name": "Puku Puku",
+    "neighborhood": "Miraflores",
+    "tags": ["fast-wifi", "specialty-coffee"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["quick-work", "breakfast"],
+    "description": {
+      "es": "Cadena peruana de café en expansión, varias sedes en Miraflores. Consistente pero suele estar concurrida — mejor para una parada corta.",
+      "en": "A growing Peruvian coffee chain with several Miraflores locations. Consistent, but usually busy — better for a quick stop."
+    },
+    "hours": { "es": "Lun–Sáb 7:00–19:00", "en": "Mon–Sat 7am–7pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-manolo",
+    "name": "Manolo",
+    "neighborhood": "Miraflores",
+    "tags": ["bakery"],
+    "priceLevel": "$$",
+    "quietLevel": "low",
+    "workFriendly": false,
+    "recommendedFor": ["breakfast", "first-meeting"],
+    "description": {
+      "es": "Churrería histórica limeña, famosa por los churros rellenos de manjar blanco y el chocolate caliente. Va por la tradición, no por trabajar.",
+      "en": "A historic Lima churrería, famous for manjar blanco-filled churros and hot chocolate. It's about tradition, not work sessions."
+    },
+    "hours": { "es": "Lun–Vie 7:15–01:00; Sáb–Dom 8:15–01:00", "en": "Mon–Fri 7:15am–1am; Sat–Sun 8:15am–1am" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-origen-tostadores",
+    "name": "Origen Tostadores de Café",
+    "neighborhood": "Miraflores",
+    "tags": ["roastery", "specialty-coffee"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Tostador de especialidad centrado en café de origen peruano — bueno si te interesa la procedencia del grano tanto como el espacio para trabajar.",
+      "en": "A specialty roaster focused on single-origin Peruvian coffee — good if you care about where the beans come from as much as having a place to work."
+    },
+    "hours": { "es": "Verificar horario", "en": "Verify hours" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-ursa-roasters",
+    "name": "Ursa Coffee Roasters",
+    "neighborhood": "Miraflores",
+    "tags": ["roastery", "specialty-coffee", "minimalist-interior"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Tostadora de especialidad con enfoque minimalista, buena para quienes prefieren un espacio sobrio para concentrarse.",
+      "en": "A specialty roaster with a minimalist approach — good for anyone who prefers a stripped-down space to focus in."
+    },
+    "hours": { "es": "Verificar horario", "en": "Verify hours" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-barra-botanica",
+    "name": "Barra Botánica",
+    "neighborhood": "Miraflores",
+    "tags": ["outdoor-terrace", "specialty-coffee"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "reading"],
+    "description": {
+      "es": "Café con toque botánico/plantas, ambiente relajado y buena luz — agradable para una mañana de trabajo tranquila.",
+      "en": "A plant-filled café with a relaxed feel and good light — pleasant for a calm morning of work."
+    },
+    "hours": { "es": "Lun–Sáb 9:00–22:00; Dom 9:00–20:00", "en": "Mon–Sat 9am–10pm; Sun 9am–8pm" },
+    "mapsUrl": ""
+  },
+  {
+    "id": "cafe-cardinal",
+    "name": "Cardinal Café",
+    "neighborhood": "Miraflores",
+    "tags": ["specialty-coffee", "fast-wifi"],
+    "priceLevel": "$$",
+    "quietLevel": "medium",
+    "workFriendly": true,
+    "recommendedFor": ["work", "first-meeting"],
+    "description": {
+      "es": "Café de especialidad de tamaño mediano, buena alternativa cuando los cafés más conocidos de la zona están llenos.",
+      "en": "A mid-sized specialty coffee shop — a solid alternative when the better-known spots nearby are full."
+    },
+    "hours": { "es": "Verificar horario", "en": "Verify hours" },
+    "mapsUrl": ""
   }
 ]

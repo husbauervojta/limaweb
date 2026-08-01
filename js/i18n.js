@@ -138,6 +138,9 @@ export const TAGS = {
   "special-occasion": { es: "Ocasión especial", en: "Special occasion" },
   "ruins-view": { es: "Vista a las ruinas", en: "Ruins view" },
   "reservation-required": { es: "Reserva obligatoria", en: "Reservation required" },
+  "world-renowned": { es: "Reconocimiento mundial", en: "World-renowned" },
+  "tasting-menu": { es: "Menú degustación", en: "Tasting menu" },
+  "date-night": { es: "Para una cita", en: "Date night" },
   // spots
   "sunset": { es: "Atardecer", en: "Sunset" },
   "free": { es: "Gratis", en: "Free" },
@@ -186,7 +189,18 @@ export const CUISINES = {
   "anticucheria-grill": { es: "Anticuchería / parrilla", en: "Anticuchería / grill" },
   "seafood": { es: "Mariscos", en: "Seafood" },
   "market-street-food": { es: "Mercado / comida callejera", en: "Market / street food" },
-  "novoandina": { es: "Novoandina", en: "Novoandean" }
+  "novoandina": { es: "Novoandina", en: "Novoandean" },
+  "fine-dining-peruvian": { es: "Alta cocina peruana", en: "Peruvian fine dining" },
+  "italian-trattoria": { es: "Trattoria italiana", en: "Italian trattoria" },
+  "grill-bar": { es: "Parrilla y bar", en: "Grill & bar" },
+  "chifa": { es: "Chifa (chino-peruana)", en: "Chifa (Chinese-Peruvian)" },
+  "breakfast-brunch": { es: "Desayunos y brunch", en: "Breakfast & brunch" },
+  "japanese-sushi": { es: "Sushi japonés", en: "Japanese sushi" },
+  "nikkei": { es: "Nikkei (japonesa-peruana)", en: "Nikkei (Japanese-Peruvian)" },
+  "italian-pizza": { es: "Pizza italiana", en: "Italian pizza" },
+  "peruvian-casual": { es: "Peruana casual", en: "Casual Peruvian" },
+  "swiss": { es: "Suiza", en: "Swiss" },
+  "regional-piurano": { es: "Cocina piurana", en: "Piura-style cuisine" }
 };
 
 export const SPOT_TYPES = {

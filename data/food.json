@@ -76,5 +76,265 @@
       "en": "Dinner overlooking illuminated pre-Inca ruins. Pricier, but built for a special occasion."
     },
     "hours": { "es": "Lun–Dom 12:15–24:00", "en": "Mon–Sun 12:15–24:00" }
+  },
+  {
+    "id": "food-central",
+    "name": "Central",
+    "neighborhood": "Barranco",
+    "cuisine": "fine-dining-peruvian",
+    "priceLevel": "$$$$",
+    "tags": ["world-renowned", "tasting-menu", "reservation-required"],
+    "description": {
+      "es": "Restaurante de alta cocina reconocido internacionalmente, menú degustación por altitudes ecológicas del Perú. Reserva con meses de anticipación y precio acorde a la ocasión.",
+      "en": "An internationally renowned fine-dining restaurant with a tasting menu built around Peru's ecological altitudes. Book months ahead, and the price matches the occasion."
+    },
+    "hours": { "es": "Verificar horario y disponibilidad", "en": "Verify hours and availability" }
+  },
+  {
+    "id": "food-amoramar",
+    "name": "Amoramar",
+    "neighborhood": "Barranco",
+    "cuisine": "seafood",
+    "priceLevel": "$$$",
+    "tags": ["fresh-fish", "local-favorite", "date-night"],
+    "description": {
+      "es": "Casona con patio interior, cocina marina cuidada — buena opción para una comida más pausada sin llegar al precio de un restaurante de altísima gama.",
+      "en": "A restored house with an interior patio and careful seafood cooking — a good pick for a slower meal without top-tier fine-dining prices."
+    },
+    "hours": { "es": "Lun–Sáb 12:30–16:00, 20:00–23:30; Dom 12:30–16:30", "en": "Mon–Sat 12:30pm–4pm, 8pm–11:30pm; Sun 12:30pm–4:30pm" }
+  },
+  {
+    "id": "food-osteria-na-cosetta",
+    "name": "Ostería 'Na Cosetta",
+    "neighborhood": "Barranco",
+    "cuisine": "italian-trattoria",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "great-portions", "no-reservation-queue"],
+    "description": {
+      "es": "Trattoria italiana informal y muy querida, porciones grandes a precio razonable. Suele haber cola, pero vale la espera.",
+      "en": "A beloved, informal Italian trattoria with big portions at a fair price. There's usually a line, but it's worth the wait."
+    },
+    "hours": { "es": "Verificar horario", "en": "Verify hours" }
+  },
+  {
+    "id": "food-segundo-muelle-barranco",
+    "name": "Segundo Muelle",
+    "neighborhood": "Barranco",
+    "cuisine": "seafood",
+    "priceLevel": "$$$",
+    "tags": ["fresh-fish", "great-portions"],
+    "description": {
+      "es": "Cadena limeña de cevicherías con buen nivel constante — no es un secreto, pero es una apuesta segura para pescado fresco.",
+      "en": "A Lima cevichería chain with consistently solid quality — not a hidden secret, but a safe bet for fresh fish."
+    },
+    "hours": { "es": "Mar–Jue 12:00–23:00; Vie–Sáb 12:00–01:00; Dom–Lun 12:00–18:00", "en": "Tue–Thu 12pm–11pm; Fri–Sat 12pm–1am; Sun–Mon 12pm–6pm" }
+  },
+  {
+    "id": "food-la-cuadra-de-salvador",
+    "name": "La Cuadra de Salvador",
+    "neighborhood": "Barranco",
+    "cuisine": "grill-bar",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "share-plates"],
+    "description": {
+      "es": "Parrilla y bar con ambiente animado, buena opción para cena entre semana con amigos sin caer en lo turístico.",
+      "en": "A grill and bar with a lively atmosphere — good for a weeknight dinner with friends, without feeling touristy."
+    },
+    "hours": { "es": "Lun–Sáb 12:00–23:30", "en": "Mon–Sat 12pm–11:30pm" }
+  },
+  {
+    "id": "food-chifa-chun-yion",
+    "name": "Chifa Chun Yion",
+    "neighborhood": "Barranco",
+    "cuisine": "chifa",
+    "priceLevel": "$$",
+    "tags": ["local-classic", "cheap"],
+    "description": {
+      "es": "Chifa (cocina chino-peruana) de barrio, sin pretensiones y consistente — la comida que pide un limeño cuando no quiere pensar mucho.",
+      "en": "A neighborhood chifa (Chinese-Peruvian food), unpretentious and consistent — the meal a Limeño orders when they don't want to overthink it."
+    },
+    "hours": { "es": "Lun–Dom 12:00–17:00, 19:00–23:59", "en": "Mon–Sun 12pm–5pm, 7pm–midnight" }
+  },
+  {
+    "id": "food-qincha",
+    "name": "Qincha",
+    "neighborhood": "Barranco",
+    "cuisine": "seafood",
+    "priceLevel": "$$$",
+    "tags": ["fresh-fish", "date-night"],
+    "description": {
+      "es": "Cocina marina con toque contemporáneo, buen lugar para una cena algo más elaborada sin llegar a la categoría 'ocasión especial'.",
+      "en": "Seafood cooking with a contemporary touch — good for a slightly more elaborate dinner without reaching 'special occasion' territory."
+    },
+    "hours": { "es": "Mar–Jue 12:00–01:00; Vie–Sáb 12:00–03:00; Dom 12:00–17:00", "en": "Tue–Thu 12pm–1am; Fri–Sat 12pm–3am; Sun 12pm–5pm" }
+  },
+  {
+    "id": "food-the-observatory",
+    "name": "The Observatory",
+    "neighborhood": "Barranco",
+    "cuisine": "breakfast-brunch",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "no-reservation-queue"],
+    "description": {
+      "es": "Desayunos y brunch con buena reputación entre expats y locales — cierra temprano, va mejor para empezar el día que para trabajar hasta tarde.",
+      "en": "Breakfast and brunch with a strong reputation among expats and locals alike — closes early, better for starting the day than working late."
+    },
+    "hours": { "es": "Lun–Sáb 6:00–10:00; Dom 6:00–10:30", "en": "Mon–Sat 6am–10am; Sun 6am–10:30am" }
+  },
+  {
+    "id": "food-tragaluz",
+    "name": "Tragaluz",
+    "neighborhood": "Barranco",
+    "cuisine": "traditional-peruvian",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "date-night"],
+    "description": {
+      "es": "Cocina peruana con enfoque contemporáneo, buena carta de postres. Opción confiable para una cena algo más formal en Barranco.",
+      "en": "Peruvian cooking with a contemporary edge and a solid dessert menu. A reliable option for a slightly more formal dinner in Barranco."
+    },
+    "hours": { "es": "Lun–Dom 12:30–23:00", "en": "Mon–Sun 12:30pm–11pm" }
+  },
+  {
+    "id": "food-la-73",
+    "name": "La 73 Paradero Gourmet",
+    "neighborhood": "Barranco",
+    "cuisine": "traditional-peruvian",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "share-plates"],
+    "description": {
+      "es": "Fusión casual con toques peruanos y asiáticos, ambiente relajado — buena opción de precio medio entre semana.",
+      "en": "Casual fusion with Peruvian and Asian touches, relaxed vibe — a solid mid-range weeknight option."
+    },
+    "hours": { "es": "Lun–Sáb 12:00–24:00; Dom 12:00–22:00", "en": "Mon–Sat 12pm–midnight; Sun 12pm–10pm" }
+  },
+  {
+    "id": "food-cala",
+    "name": "Cala",
+    "neighborhood": "Barranco",
+    "cuisine": "seafood",
+    "priceLevel": "$$$",
+    "tags": ["ocean-view", "date-night"],
+    "description": {
+      "es": "Restaurante frente al mar sobre el Circuito de Playas — vista directa al océano, buen lugar para un almuerzo largo de fin de semana.",
+      "en": "A beachfront restaurant right on the Circuito de Playas — direct ocean views, good for a long weekend lunch."
+    },
+    "hours": { "es": "Lun–Dom 12:00–23:00", "en": "Mon–Sun 12pm–11pm" }
+  },
+  {
+    "id": "food-kaiyo-rolls",
+    "name": "Kaiyo Rolls",
+    "neighborhood": "Miraflores",
+    "cuisine": "japanese-sushi",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "date-night"],
+    "description": {
+      "es": "Sushi, ramen y cócteles en un mismo local — buena opción cuando el grupo no se pone de acuerdo en qué comer.",
+      "en": "Sushi, ramen, and cocktails under one roof — a good pick when the group can't agree on what to eat."
+    },
+    "hours": { "es": "Mar–Jue 12:00–23:00", "en": "Tue–Thu 12pm–11pm" }
+  },
+  {
+    "id": "food-matsuei",
+    "name": "Matsuei",
+    "neighborhood": "San Isidro",
+    "cuisine": "nikkei",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "reservation-recommended"],
+    "description": {
+      "es": "Uno de los restaurantes nikkei (japonesa-peruana) más antiguos y respetados de Lima — de aquí salió parte de la escuela que después popularizó Nobu.",
+      "en": "One of Lima's oldest and most respected Nikkei (Japanese-Peruvian) restaurants — part of the lineage that later helped popularize Nobu."
+    },
+    "hours": { "es": "Lun–Sáb 12:30–23:30; Dom 12:30–16:30", "en": "Mon–Sat 12:30pm–11:30pm; Sun 12:30pm–4:30pm" }
+  },
+  {
+    "id": "food-mayta",
+    "name": "Mayta",
+    "neighborhood": "San Isidro",
+    "cuisine": "fine-dining-peruvian",
+    "priceLevel": "$$$$",
+    "tags": ["tasting-menu", "reservation-required"],
+    "description": {
+      "es": "Cocina peruana contemporánea del chef Jaime Pesaque, un escalón más accesible que los restaurantes de la lista mundial pero igual de cuidado.",
+      "en": "Contemporary Peruvian cooking from chef Jaime Pesaque — a notch more accessible than the world's-best-list restaurants, but just as carefully done."
+    },
+    "hours": { "es": "Lun–Sáb 12:30–16:00, 19:00–23:00; Dom 12:30–16:30", "en": "Mon–Sat 12:30pm–4pm, 7pm–11pm; Sun 12:30pm–4:30pm" }
+  },
+  {
+    "id": "food-la-romana",
+    "name": "La Romana",
+    "neighborhood": "San Isidro",
+    "cuisine": "italian-pizza",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "great-portions"],
+    "description": {
+      "es": "Pizzería italiana popular entre familias y oficinistas de San Isidro — nada sofisticada, pero confiable.",
+      "en": "An Italian pizzeria popular with families and San Isidro office workers — nothing fancy, but reliable."
+    },
+    "hours": { "es": "Verificar horario", "en": "Verify hours" }
+  },
+  {
+    "id": "food-isidro-bistro",
+    "name": "Isidro Bistró Limeño",
+    "neighborhood": "San Isidro",
+    "cuisine": "peruvian-casual",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "no-reservation-queue"],
+    "description": {
+      "es": "Bistró de comida limeña casual, abre temprano y cierra tarde — útil como opción de confianza a cualquier hora del día.",
+      "en": "A casual Lima-style bistro, open early to late — a reliable fallback option at almost any hour."
+    },
+    "hours": { "es": "Lun–Dom 6:30–23:00", "en": "Mon–Sun 6:30am–11pm" }
+  },
+  {
+    "id": "food-la-romantica",
+    "name": "La Romántica",
+    "neighborhood": "San Isidro",
+    "cuisine": "swiss",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "date-night"],
+    "description": {
+      "es": "Restaurante suizo poco común en la oferta de Lima — fondue y platos centroeuropeos, buena opción para variar de la cocina peruana.",
+      "en": "A Swiss restaurant, unusual in Lima's dining scene — fondue and central European dishes, a good change of pace from Peruvian food."
+    },
+    "hours": { "es": "Lun–Sáb 12:30–15:00, 19:30–23:59; Dom 12:30–17:00", "en": "Mon–Sat 12:30pm–3pm, 7:30pm–midnight; Sun 12:30pm–5pm" }
+  },
+  {
+    "id": "food-los-piuranos",
+    "name": "Los Piuranos",
+    "neighborhood": "San Isidro",
+    "cuisine": "regional-piurano",
+    "priceLevel": "$$",
+    "tags": ["local-classic", "cheap"],
+    "description": {
+      "es": "Cocina regional del norte del Perú (Piura) — seco de chavelo, ceviche norteño y platos que rara vez aparecen en guías turísticas.",
+      "en": "Regional cooking from northern Peru (Piura) — seco de chavelo, northern-style ceviche, and dishes that rarely make it into tourist guides."
+    },
+    "hours": { "es": "Lun–Sáb 12:00–16:00", "en": "Mon–Sat 12pm–4pm" }
+  },
+  {
+    "id": "food-edo-sushi-bar",
+    "name": "Edo Sushi Bar",
+    "neighborhood": "San Isidro",
+    "cuisine": "japanese-sushi",
+    "priceLevel": "$$$",
+    "tags": ["local-favorite", "date-night"],
+    "description": {
+      "es": "Sushi bar de barrio con buena relación calidad-precio, menos conocido que las grandes cadenas nikkei de la ciudad.",
+      "en": "A neighborhood sushi bar with good value, less known than the city's big Nikkei chains."
+    },
+    "hours": { "es": "Lun–Sáb 12:30–15:30, 18:30–23:00; Dom 13:00–16:00", "en": "Mon–Sat 12:30pm–3:30pm, 6:30pm–11pm; Sun 1pm–4pm" }
+  },
+  {
+    "id": "food-canuto-trattoria",
+    "name": "Canuto Trattoria Peruana",
+    "neighborhood": "San Isidro",
+    "cuisine": "italian-trattoria",
+    "priceLevel": "$$",
+    "tags": ["local-favorite", "share-plates"],
+    "description": {
+      "es": "Fusión ítalo-peruana en formato trattoria, ambiente casual — abre desde temprano hasta la noche.",
+      "en": "Italian-Peruvian fusion in a trattoria format, casual atmosphere — open from early morning into the evening."
+    },
+    "hours": { "es": "Mar–Sáb 8:30–22:30; Dom 12:00–17:00", "en": "Tue–Sat 8:30am–10:30pm; Sun 12pm–5pm" }
   }
 ]
