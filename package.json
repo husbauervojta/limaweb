@@ -7,7 +7,8 @@
     "build:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify",
     "watch:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch",
     "dev": "npx --yes serve . -l 4989",
-    "fetch:places": "node scripts/fetch-osm-places.js"
+    "fetch:places": "node scripts/fetch-osm-places.js",
+    "fetch:photos": "node scripts/fetch-place-photos.js"
   },
   "keywords": [],
   "author": "",

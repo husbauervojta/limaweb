@@ -1,6 +1,6 @@
 import { loadData, onLangChange } from "./app.js";
 import { UI, t, getLang } from "./i18n.js";
-import { tagPill, escapeHtml } from "./render-helpers.js";
+import { tagPill, placeImage, escapeHtml } from "./render-helpers.js";
 
 const cafesPreview = document.querySelector("[data-preview-cafes]");
 const foodPreview = document.querySelector("[data-preview-food]");
@@ -16,12 +16,15 @@ let events = [];
 
 function previewCard(item, lang) {
   return `
-    <article class="rounded-2xl border border-stone-200 bg-white p-5 transition hover:border-clay-300 hover:shadow-sm">
-      <h3 class="text-base font-medium leading-snug text-stone-900">${escapeHtml(item.name)}</h3>
-      <p class="mt-0.5 text-sm text-stone-500">${escapeHtml(item.neighborhood)}</p>
-      <p class="mt-2 text-sm leading-relaxed text-stone-600">${escapeHtml(t(item.description, lang))}</p>
-      <div class="mt-3 flex flex-wrap gap-1.5">
-        ${(item.tags || []).slice(0, 2).map((tg) => tagPill(tg, lang)).join("")}
+    <article class="overflow-hidden rounded-2xl border border-stone-200 bg-white transition hover:border-clay-300 hover:shadow-sm">
+      ${placeImage(item, item.name)}
+      <div class="p-5">
+        <h3 class="text-base font-medium leading-snug text-stone-900">${escapeHtml(item.name)}</h3>
+        <p class="mt-0.5 text-sm text-stone-500">${escapeHtml(item.neighborhood)}</p>
+        <p class="mt-2 text-sm leading-relaxed text-stone-600">${escapeHtml(t(item.description, lang))}</p>
+        <div class="mt-3 flex flex-wrap gap-1.5">
+          ${(item.tags || []).slice(0, 2).map((tg) => tagPill(tg, lang)).join("")}
+        </div>
       </div>
     </article>
   `;

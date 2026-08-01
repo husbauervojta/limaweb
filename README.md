@@ -43,6 +43,23 @@ Consulta la API de Overpass (OpenStreetMap) y escribe `data/candidates/cafes-osm
 
 Calidad de los datos: variable — no todos los lugares en OpenStreetMap tienen horario o dirección completa, y el barrio se adivina por coordenadas cuando OSM no lo etiqueta, así que revísalo antes de publicar.
 
+### Fotos reales (Google Places API)
+
+```bash
+npm run fetch:photos          # solo lugares sin foto todavía
+npm run fetch:photos -- --force  # re-descarga incluso los que ya tienen
+```
+
+Requiere una API key de Google (Places API New habilitada + billing activo en el proyecto de Google Cloud). Guárdala en un archivo `.env.local` en la raíz del proyecto (ignorado por git):
+
+```
+GOOGLE_PLACES_API_KEY=tu-clave-aqui
+```
+
+El script busca cada lugar de `data/cafes.json` y `data/food.json` por nombre + distrito, descarga una foto a `images/places/` y guarda la ruta local en el campo `"photo"` de cada entrada — la clave nunca se expone en el sitio ni se sube a git. Las fotos descargadas sí se versionan (son archivos estáticos normales del sitio).
+
+**Nota sobre los términos de Google:** los términos de Google Maps Platform piden mantener el contenido de Place razonablemente actualizado, no archivarlo indefinidamente sin refrescar. Para un sitio que se actualiza de vez en cuando esto es una zona gris razonable, pero si el sitio crece, vale la pena automatizar un refresh periódico (`--force` cada cierto tiempo) en vez de descargar una vez y olvidarlo.
+
 ### Botón "¿Conoces un evento? Sugiérelo"
 
 En `events.html` hay un enlace marcado con `data-submit-event` que apunta a `href="#"` — reemplázalo por el link de tu Google Form (u otro formulario) cuando lo tengas. Las respuestas hay que pasarlas a mano a `data/events.json` siguiendo el mismo formato que las entradas existentes.

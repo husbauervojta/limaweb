@@ -10,6 +10,11 @@ export function tagPill(key, lang = getLang()) {
   return `<span class="rounded-full bg-clay-50 px-2.5 py-1 text-xs text-clay-700">${escapeHtml(tagLabel(key, lang))}</span>`;
 }
 
+export function placeImage(place, altText = "") {
+  if (!place.photo) return "";
+  return `<img src="${escapeHtml(place.photo)}" alt="${escapeHtml(altText)}" class="h-40 w-full object-cover sm:h-44" loading="lazy" decoding="async" />`;
+}
+
 export function priceDots(level) {
   const count = (level || "$").length;
   const full = "●".repeat(count);
